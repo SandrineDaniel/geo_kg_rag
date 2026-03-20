@@ -78,83 +78,102 @@ ex:oppose rdfs:label "oppose" ;
 
 <http://example.org/kg/org/delta_force> a schema1:Organization ;
     rdfs:label "Delta Force" ;
-    ex:sourceUrl "https://english.elpais.com/international/2026-01-10/a-trump-intervention-in-greenland-would-destroy-nato.html"^^xsd:anyURI .
+    ex:sourceUrl "https://english.elpais.com/international/2026-01-10/a-trump-intervention-in-greenland-would-destroy-nato.html"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/Delta_Force> .
 
 <http://example.org/kg/org/donroe> a schema1:Organization ;
     rdfs:label "Donroe" ;
-    ex:sourceUrl "https://www.thearcticinstitute.org/trump-greenland-logic-chaos/"^^xsd:anyURI .
+    ex:sourceUrl "https://www.thearcticinstitute.org/trump-greenland-logic-chaos/"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/Gmina_Dobroń> .
 
 <http://example.org/kg/org/el_pais> a schema1:Organization ;
     rdfs:label "EL PAÍS" ;
-    ex:sourceUrl "https://english.elpais.com/international/2026-01-12/how-trump-can-take-greenland-the-easy-way-or-the-hard-way.html"^^xsd:anyURI .
+    ex:sourceUrl "https://english.elpais.com/international/2026-01-12/how-trump-can-take-greenland-the-easy-way-or-the-hard-way.html"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/El_País> .
 
 <http://example.org/kg/org/friends_of_europe> a schema1:Organization ;
     rdfs:label "Friends of Europe" ;
-    ex:sourceUrl "https://english.elpais.com/international/2026-01-10/a-trump-intervention-in-greenland-would-destroy-nato.html"^^xsd:anyURI .
+    ex:sourceUrl "https://english.elpais.com/international/2026-01-10/a-trump-intervention-in-greenland-would-destroy-nato.html"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/United_States> .
 
 <http://example.org/kg/org/geopol_strategi> a schema1:Organization ;
     rdfs:label "Geopol Strategi" ;
-    ex:sourceUrl "https://english.elpais.com/international/2026-01-12/how-trump-can-take-greenland-the-easy-way-or-the-hard-way.html"^^xsd:anyURI .
+    ex:sourceUrl "https://english.elpais.com/international/2026-01-12/how-trump-can-take-greenland-the-easy-way-or-the-hard-way.html"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/List_of_E._Schweizerbart_serials> .
 
 <http://example.org/kg/org/greenlanders> a schema1:Organization ;
     rdfs:label "Greenlanders" ;
     ex:sourceUrl "https://apnews.com/article/2b12bb104faaaafda2ed270febfb0522"^^xsd:anyURI,
         "https://english.elpais.com/international/2026-01-12/how-trump-can-take-greenland-the-easy-way-or-the-hard-way.html"^^xsd:anyURI,
         "https://www.gov.uk/government/speeches/foreign-secretary-statement-to-the-house-on-greenland-and-wider-arctic-security"^^xsd:anyURI,
-        "https://www.thearcticinstitute.org/trump-greenland-logic-chaos/"^^xsd:anyURI .
+        "https://www.thearcticinstitute.org/trump-greenland-logic-chaos/"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/Saga_of_the_Greenlanders> .
 
 <http://example.org/kg/org/guardian> a schema1:Organization ;
     rdfs:label "Guardian" ;
-    ex:sourceUrl "https://www.theguardian.com/world/2026/feb/14/denmark-us-powers-legal-action-greenland-washington-donald-trump-europe"^^xsd:anyURI .
+    ex:sourceUrl "https://www.theguardian.com/world/2026/feb/14/denmark-us-powers-legal-action-greenland-washington-donald-trump-europe"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/The_Guardian> .
 
 <http://example.org/kg/org/ie_university> a schema1:Organization ;
     rdfs:label "IE University" ;
-    ex:sourceUrl "https://english.elpais.com/international/2026-01-10/a-trump-intervention-in-greenland-would-destroy-nato.html"^^xsd:anyURI .
+    ex:sourceUrl "https://english.elpais.com/international/2026-01-10/a-trump-intervention-in-greenland-would-destroy-nato.html"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/Jerusalem> .
 
 <http://example.org/kg/org/international_security> a schema1:Organization ;
     rdfs:label "International Security" ;
-    ex:sourceUrl "https://english.elpais.com/international/2026-01-10/a-trump-intervention-in-greenland-would-destroy-nato.html"^^xsd:anyURI .
+    ex:sourceUrl "https://english.elpais.com/international/2026-01-10/a-trump-intervention-in-greenland-would-destroy-nato.html"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/Computer_security> .
 
 <http://example.org/kg/org/joint_expeditionary_force> a schema1:Organization ;
     rdfs:label "Joint Expeditionary Force" ;
-    ex:sourceUrl "https://www.gov.uk/government/speeches/foreign-secretary-statement-to-the-house-on-greenland-and-wider-arctic-security"^^xsd:anyURI .
+    ex:sourceUrl "https://www.gov.uk/government/speeches/foreign-secretary-statement-to-the-house-on-greenland-and-wider-arctic-security"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/Arthropod> .
 
 <http://example.org/kg/org/leyen_european_commission> a schema1:Organization ;
     rdfs:label "Leyen (European Commission" ;
-    ex:sourceUrl "https://english.elpais.com/economy-and-business/2026-01-20/the-us-europe-standoff-reaches-davos-set-to-hold-a-critical-meeting-on-greenland.html"^^xsd:anyURI .
+    ex:sourceUrl "https://english.elpais.com/economy-and-business/2026-01-20/the-us-europe-standoff-reaches-davos-set-to-hold-a-critical-meeting-on-greenland.html"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/Central_European_Summer_Time> .
 
 <http://example.org/kg/org/lunna_house_defence_agreement> a schema1:Organization ;
     rdfs:label "Lunna House Defence Agreement" ;
-    ex:sourceUrl "https://www.gov.uk/government/speeches/foreign-secretary-statement-to-the-house-on-greenland-and-wider-arctic-security"^^xsd:anyURI .
+    ex:sourceUrl "https://www.gov.uk/government/speeches/foreign-secretary-statement-to-the-house-on-greenland-and-wider-arctic-security"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/Defenceman> .
 
 <http://example.org/kg/org/messmer> a schema1:Organization ;
     rdfs:label "Messmer" ;
     ex:oppose <http://example.org/kg/org/nato> ;
-    ex:sourceUrl "https://english.elpais.com/international/2026-01-10/a-trump-intervention-in-greenland-would-destroy-nato.html"^^xsd:anyURI .
+    ex:sourceUrl "https://english.elpais.com/international/2026-01-10/a-trump-intervention-in-greenland-would-destroy-nato.html"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/Pierre_Messmer> .
 
 <http://example.org/kg/org/microsoft> a schema1:Organization ;
     rdfs:label "Microsoft" ;
-    ex:sourceUrl "https://english.elpais.com/economy-and-business/2026-01-20/the-us-europe-standoff-reaches-davos-set-to-hold-a-critical-meeting-on-greenland.html"^^xsd:anyURI .
+    ex:sourceUrl "https://english.elpais.com/economy-and-business/2026-01-20/the-us-europe-standoff-reaches-davos-set-to-hold-a-critical-meeting-on-greenland.html"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/Microsoft_Windows> .
 
 <http://example.org/kg/org/muniz_of_ie_university> a schema1:Organization ;
     rdfs:label "Muñiz of IE University" ;
-    ex:sourceUrl "https://english.elpais.com/international/2026-01-10/a-trump-intervention-in-greenland-would-destroy-nato.html"^^xsd:anyURI .
+    ex:sourceUrl "https://english.elpais.com/international/2026-01-10/a-trump-intervention-in-greenland-would-destroy-nato.html"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/United_States> .
 
 <http://example.org/kg/org/nato_alliance> a schema1:Organization ;
     rdfs:label "NATO Alliance" ;
-    ex:sourceUrl "https://www.gov.uk/government/speeches/foreign-secretary-statement-to-the-house-on-greenland-and-wider-arctic-security"^^xsd:anyURI .
+    ex:sourceUrl "https://www.gov.uk/government/speeches/foreign-secretary-statement-to-the-house-on-greenland-and-wider-arctic-security"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/NATO> .
 
 <http://example.org/kg/org/new_york_post> a schema1:Organization ;
     rdfs:label "New York Post" ;
-    ex:sourceUrl "https://www.thearcticinstitute.org/trump-greenland-logic-chaos/"^^xsd:anyURI .
+    ex:sourceUrl "https://www.thearcticinstitute.org/trump-greenland-logic-chaos/"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/New_York_University> .
 
 <http://example.org/kg/org/nord_university> a schema1:Organization ;
     rdfs:label "Nord University" ;
-    ex:sourceUrl "https://www.thearcticinstitute.org/trump-greenland-logic-chaos/"^^xsd:anyURI .
+    ex:sourceUrl "https://www.thearcticinstitute.org/trump-greenland-logic-chaos/"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/University_of_North_Carolina_at_Chapel_Hill> .
 
 <http://example.org/kg/org/nvidia> a schema1:Organization ;
     rdfs:label "Nvidia" ;
-    ex:sourceUrl "https://english.elpais.com/economy-and-business/2026-01-20/the-us-europe-standoff-reaches-davos-set-to-hold-a-critical-meeting-on-greenland.html"^^xsd:anyURI .
+    ex:sourceUrl "https://english.elpais.com/economy-and-business/2026-01-20/the-us-europe-standoff-reaches-davos-set-to-hold-a-critical-meeting-on-greenland.html"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/Nvidia> .
 
 <http://example.org/kg/org/palantir> a schema1:Organization ;
     rdfs:label "Palantir" ;
@@ -169,24 +188,29 @@ ex:oppose rdfs:label "oppose" ;
 <http://example.org/kg/org/pentagon> a schema1:Organization ;
     rdfs:label "Pentagon" ;
     ex:sourceUrl "https://english.elpais.com/economy-and-business/2026-01-20/the-us-europe-standoff-reaches-davos-set-to-hold-a-critical-meeting-on-greenland.html"^^xsd:anyURI,
-        "https://english.elpais.com/international/2026-01-12/how-trump-can-take-greenland-the-easy-way-or-the-hard-way.html"^^xsd:anyURI .
+        "https://english.elpais.com/international/2026-01-12/how-trump-can-take-greenland-the-easy-way-or-the-hard-way.html"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/The_Pentagon> .
 
 <http://example.org/kg/org/pituffik> a schema1:Organization ;
     rdfs:label "Pituffik" ;
     ex:sourceUrl "https://english.elpais.com/international/2026-01-12/how-trump-can-take-greenland-the-easy-way-or-the-hard-way.html"^^xsd:anyURI,
-        "https://www.thearcticinstitute.org/trump-greenland-logic-chaos/"^^xsd:anyURI .
+        "https://www.thearcticinstitute.org/trump-greenland-logic-chaos/"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/Pituffik> .
 
 <http://example.org/kg/org/rahbek_clemmensen> a schema1:Organization ;
     rdfs:label "Rahbek-Clemmensen" ;
-    ex:sourceUrl "https://english.elpais.com/international/2026-01-12/how-trump-can-take-greenland-the-easy-way-or-the-hard-way.html"^^xsd:anyURI .
+    ex:sourceUrl "https://english.elpais.com/international/2026-01-12/how-trump-can-take-greenland-the-easy-way-or-the-hard-way.html"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/Clemmensen_reduction> .
 
 <http://example.org/kg/org/shea> a schema1:Organization ;
     rdfs:label "Shea" ;
-    ex:sourceUrl "https://english.elpais.com/international/2026-01-10/a-trump-intervention-in-greenland-would-destroy-nato.html"^^xsd:anyURI .
+    ex:sourceUrl "https://english.elpais.com/international/2026-01-10/a-trump-intervention-in-greenland-would-destroy-nato.html"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/John_Shea> .
 
 <http://example.org/kg/org/shea_of_friends_for_europe> a schema1:Organization ;
     rdfs:label "Shea of Friends for Europe" ;
-    ex:sourceUrl "https://english.elpais.com/international/2026-01-10/a-trump-intervention-in-greenland-would-destroy-nato.html"^^xsd:anyURI .
+    ex:sourceUrl "https://english.elpais.com/international/2026-01-10/a-trump-intervention-in-greenland-would-destroy-nato.html"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/United_States> .
 
 <http://example.org/kg/org/struwe> a schema1:Organization ;
     rdfs:label "Struwe" ;
@@ -196,148 +220,182 @@ ex:oppose rdfs:label "oppose" ;
 <http://example.org/kg/org/swiss_alpine> a schema1:Organization ;
     rdfs:label "Swiss Alpine" ;
     ex:related_to <http://example.org/kg/person/donald_trump> ;
-    ex:sourceUrl "https://english.elpais.com/economy-and-business/2026-01-20/the-us-europe-standoff-reaches-davos-set-to-hold-a-critical-meeting-on-greenland.html"^^xsd:anyURI .
+    ex:sourceUrl "https://english.elpais.com/economy-and-business/2026-01-20/the-us-europe-standoff-reaches-davos-set-to-hold-a-critical-meeting-on-greenland.html"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/European_Professional_Basketball_League> .
 
 <http://example.org/kg/org/the_alliance_of_democracies_foundation> a schema1:Organization ;
     rdfs:label "the Alliance of Democracies Foundation" ;
-    ex:sourceUrl "https://english.elpais.com/international/2026-01-12/how-trump-can-take-greenland-the-easy-way-or-the-hard-way.html"^^xsd:anyURI .
+    ex:sourceUrl "https://english.elpais.com/international/2026-01-12/how-trump-can-take-greenland-the-easy-way-or-the-hard-way.html"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/United_States> .
 
 <http://example.org/kg/org/the_arctic_institute> a schema1:Organization ;
     rdfs:label "The Arctic Institute" ;
-    ex:sourceUrl "https://www.thearcticinstitute.org/trump-greenland-logic-chaos/"^^xsd:anyURI .
+    ex:sourceUrl "https://www.thearcticinstitute.org/trump-greenland-logic-chaos/"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/Arctic_Institute_of_North_America> .
 
 <http://example.org/kg/org/the_atlantic_alliance> a schema1:Organization ;
     rdfs:label "the Atlantic Alliance" ;
     ex:sourceUrl "https://english.elpais.com/international/2026-01-10/a-trump-intervention-in-greenland-would-destroy-nato.html"^^xsd:anyURI,
-        "https://english.elpais.com/international/2026-01-12/how-trump-can-take-greenland-the-easy-way-or-the-hard-way.html"^^xsd:anyURI .
+        "https://english.elpais.com/international/2026-01-12/how-trump-can-take-greenland-the-easy-way-or-the-hard-way.html"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/NATO> .
 
 <http://example.org/kg/org/the_danish_government> a schema1:Organization ;
     rdfs:label "the Danish Government" ;
     ex:sourceUrl "https://english.elpais.com/international/2026-01-12/how-trump-can-take-greenland-the-easy-way-or-the-hard-way.html"^^xsd:anyURI,
-        "https://www.gov.uk/government/speeches/foreign-secretary-statement-to-the-house-on-greenland-and-wider-arctic-security"^^xsd:anyURI .
+        "https://www.gov.uk/government/speeches/foreign-secretary-statement-to-the-house-on-greenland-and-wider-arctic-security"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/Prime_Minister_of_Denmark> .
 
 <http://example.org/kg/org/the_danish_institute_for_human_rights> a schema1:Organization ;
     rdfs:label "The Danish Institute for Human Rights",
         "the Danish Institute for Human Rights" ;
-    ex:sourceUrl "https://www.theguardian.com/world/2026/feb/14/denmark-us-powers-legal-action-greenland-washington-donald-trump-europe"^^xsd:anyURI .
+    ex:sourceUrl "https://www.theguardian.com/world/2026/feb/14/denmark-us-powers-legal-action-greenland-washington-donald-trump-europe"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/Animal> .
 
 <http://example.org/kg/org/the_danish_ministry_of_defense> a schema1:Organization ;
     rdfs:label "the Danish Ministry of Defense" ;
-    ex:sourceUrl "https://english.elpais.com/international/2026-01-12/how-trump-can-take-greenland-the-easy-way-or-the-hard-way.html"^^xsd:anyURI .
+    ex:sourceUrl "https://english.elpais.com/international/2026-01-12/how-trump-can-take-greenland-the-easy-way-or-the-hard-way.html"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/United_States> .
 
 <http://example.org/kg/org/the_danish_west_indies> a schema1:Organization ;
     rdfs:label "the Danish West Indies" ;
-    ex:sourceUrl "https://english.elpais.com/international/2026-01-12/how-trump-can-take-greenland-the-easy-way-or-the-hard-way.html"^^xsd:anyURI .
+    ex:sourceUrl "https://english.elpais.com/international/2026-01-12/how-trump-can-take-greenland-the-easy-way-or-the-hard-way.html"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/Danish_West_Indies> .
 
 <http://example.org/kg/org/the_european_union> a schema1:Organization ;
     rdfs:label "the European Union" ;
-    ex:sourceUrl "https://english.elpais.com/international/2026-01-12/how-trump-can-take-greenland-the-easy-way-or-the-hard-way.html"^^xsd:anyURI .
+    ex:sourceUrl "https://english.elpais.com/international/2026-01-12/how-trump-can-take-greenland-the-easy-way-or-the-hard-way.html"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/Soviet_Union> .
 
 <http://example.org/kg/org/the_high_north_center> a schema1:Organization ;
     rdfs:label "the High North Center" ;
-    ex:sourceUrl "https://www.thearcticinstitute.org/trump-greenland-logic-chaos/"^^xsd:anyURI .
+    ex:sourceUrl "https://www.thearcticinstitute.org/trump-greenland-logic-chaos/"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/Phoenix,_Arizona> .
 
 <http://example.org/kg/org/the_new_york_post> a schema1:Organization ;
     rdfs:label "the New York Post" ;
-    ex:sourceUrl "https://www.thearcticinstitute.org/trump-greenland-logic-chaos/"^^xsd:anyURI .
+    ex:sourceUrl "https://www.thearcticinstitute.org/trump-greenland-logic-chaos/"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/New_York_University> .
 
 <http://example.org/kg/org/the_new_york_times> a schema1:Organization ;
     rdfs:label "The New York Times" ;
-    ex:sourceUrl "https://english.elpais.com/international/2026-01-12/how-trump-can-take-greenland-the-easy-way-or-the-hard-way.html"^^xsd:anyURI .
+    ex:sourceUrl "https://english.elpais.com/international/2026-01-12/how-trump-can-take-greenland-the-easy-way-or-the-hard-way.html"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/The_New_York_Times> .
 
 <http://example.org/kg/org/the_royal_danish_defence_college> a schema1:Organization ;
     rdfs:label "the Royal Danish Defence College" ;
-    ex:sourceUrl "https://english.elpais.com/international/2026-01-12/how-trump-can-take-greenland-the-easy-way-or-the-hard-way.html"^^xsd:anyURI .
+    ex:sourceUrl "https://english.elpais.com/international/2026-01-12/how-trump-can-take-greenland-the-easy-way-or-the-hard-way.html"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/Denmark> .
 
 <http://example.org/kg/org/the_royal_marines> a schema1:Organization ;
     rdfs:label "the Royal Marines" ;
-    ex:sourceUrl "https://www.gov.uk/government/speeches/foreign-secretary-statement-to-the-house-on-greenland-and-wider-arctic-security"^^xsd:anyURI .
+    ex:sourceUrl "https://www.gov.uk/government/speeches/foreign-secretary-statement-to-the-house-on-greenland-and-wider-arctic-security"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/Royal_Marines> .
 
 <http://example.org/kg/org/the_state_department> a schema1:Organization ;
     rdfs:label "The State Department" ;
-    ex:sourceUrl "https://english.elpais.com/international/2026-01-12/how-trump-can-take-greenland-the-easy-way-or-the-hard-way.html"^^xsd:anyURI .
+    ex:sourceUrl "https://english.elpais.com/international/2026-01-12/how-trump-can-take-greenland-the-easy-way-or-the-hard-way.html"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/Arizona> .
 
 <http://example.org/kg/org/the_u_s_armed_forces> a schema1:Organization ;
     rdfs:label "the U.S. Armed Forces" ;
-    ex:sourceUrl "https://english.elpais.com/international/2026-01-12/how-trump-can-take-greenland-the-easy-way-or-the-hard-way.html"^^xsd:anyURI .
+    ex:sourceUrl "https://english.elpais.com/international/2026-01-12/how-trump-can-take-greenland-the-easy-way-or-the-hard-way.html"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/United_States_Armed_Forces> .
 
 <http://example.org/kg/org/the_u_s_department_of_defense> a schema1:Organization ;
     rdfs:label "The U.S. Department of Defense" ;
     ex:operate <http://example.org/kg/place/greenland> ;
-    ex:sourceUrl "https://apnews.com/article/2b12bb104faaaafda2ed270febfb0522"^^xsd:anyURI .
+    ex:sourceUrl "https://apnews.com/article/2b12bb104faaaafda2ed270febfb0522"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/United_States_Department_of_Defense> .
 
 <http://example.org/kg/org/the_us_space_force> a schema1:Organization ;
     rdfs:label "the US Space Force" ;
-    ex:sourceUrl "https://www.thearcticinstitute.org/trump-greenland-logic-chaos/"^^xsd:anyURI .
+    ex:sourceUrl "https://www.thearcticinstitute.org/trump-greenland-logic-chaos/"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/United_States_Air_Force_Academy> .
 
 <http://example.org/kg/org/the_usa_house> a schema1:Organization ;
     rdfs:label "the USA House" ;
-    ex:sourceUrl "https://english.elpais.com/economy-and-business/2026-01-20/the-us-europe-standoff-reaches-davos-set-to-hold-a-critical-meeting-on-greenland.html"^^xsd:anyURI .
+    ex:sourceUrl "https://english.elpais.com/economy-and-business/2026-01-20/the-us-europe-standoff-reaches-davos-set-to-hold-a-critical-meeting-on-greenland.html"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/Minneapolis> .
 
 <http://example.org/kg/org/the_voxmeter_institute> a schema1:Organization ;
     rdfs:label "the Voxmeter institute" ;
-    ex:sourceUrl "https://english.elpais.com/international/2026-01-12/how-trump-can-take-greenland-the-easy-way-or-the-hard-way.html"^^xsd:anyURI .
+    ex:sourceUrl "https://english.elpais.com/international/2026-01-12/how-trump-can-take-greenland-the-easy-way-or-the-hard-way.html"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/United_States> .
 
 <http://example.org/kg/org/the_wall_street_journal> a schema1:Organization ;
     rdfs:label "The Wall Street Journal" ;
-    ex:sourceUrl "https://english.elpais.com/international/2026-01-12/how-trump-can-take-greenland-the-easy-way-or-the-hard-way.html"^^xsd:anyURI .
+    ex:sourceUrl "https://english.elpais.com/international/2026-01-12/how-trump-can-take-greenland-the-easy-way-or-the-hard-way.html"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/The_Wall_Street_Journal> .
 
 <http://example.org/kg/org/the_white_house> a schema1:Organization ;
     rdfs:label "The White House",
         "the White House" ;
     ex:sourceUrl "https://english.elpais.com/economy-and-business/2026-01-20/the-us-europe-standoff-reaches-davos-set-to-hold-a-critical-meeting-on-greenland.html"^^xsd:anyURI,
-        "https://english.elpais.com/international/2026-01-10/a-trump-intervention-in-greenland-would-destroy-nato.html"^^xsd:anyURI .
+        "https://english.elpais.com/international/2026-01-10/a-trump-intervention-in-greenland-would-destroy-nato.html"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/Chicago_White_Sox> .
 
 <http://example.org/kg/org/the_white_houses> a schema1:Organization ;
     rdfs:label "the White House’s" ;
-    ex:sourceUrl "https://english.elpais.com/international/2026-01-10/a-trump-intervention-in-greenland-would-destroy-nato.html"^^xsd:anyURI .
+    ex:sourceUrl "https://english.elpais.com/international/2026-01-10/a-trump-intervention-in-greenland-would-destroy-nato.html"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/The_Beatles_(album)> .
 
 <http://example.org/kg/org/u_s_treasury> a schema1:Organization ;
     rdfs:label "U.S. Treasury" ;
-    ex:sourceUrl "https://english.elpais.com/economy-and-business/2026-01-20/the-us-europe-standoff-reaches-davos-set-to-hold-a-critical-meeting-on-greenland.html"^^xsd:anyURI .
+    ex:sourceUrl "https://english.elpais.com/economy-and-business/2026-01-20/the-us-europe-standoff-reaches-davos-set-to-hold-a-critical-meeting-on-greenland.html"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/United_States_Treasury_security> .
 
 <http://example.org/kg/org/white_house> a schema1:Organization ;
     rdfs:label "White House" ;
-    ex:sourceUrl "https://english.elpais.com/international/2026-01-10/a-trump-intervention-in-greenland-would-destroy-nato.html"^^xsd:anyURI .
+    ex:sourceUrl "https://english.elpais.com/international/2026-01-10/a-trump-intervention-in-greenland-would-destroy-nato.html"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/White> .
 
 <http://example.org/kg/person/abbas_aragchi> a schema1:Person ;
     rdfs:label "Abbas Aragchi" ;
-    ex:sourceUrl "https://english.elpais.com/economy-and-business/2026-01-20/the-us-europe-standoff-reaches-davos-set-to-hold-a-critical-meeting-on-greenland.html"^^xsd:anyURI .
+    ex:sourceUrl "https://english.elpais.com/economy-and-business/2026-01-20/the-us-europe-standoff-reaches-davos-set-to-hold-a-critical-meeting-on-greenland.html"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/Abbas_Araghchi> .
 
 <http://example.org/kg/person/abdel_fattah_al_sisi> a schema1:Person ;
     rdfs:label "Abdel Fattah al-Sisi" ;
-    ex:sourceUrl "https://english.elpais.com/economy-and-business/2026-01-20/the-us-europe-standoff-reaches-davos-set-to-hold-a-critical-meeting-on-greenland.html"^^xsd:anyURI .
+    ex:sourceUrl "https://english.elpais.com/economy-and-business/2026-01-20/the-us-europe-standoff-reaches-davos-set-to-hold-a-critical-meeting-on-greenland.html"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/Abdel_Fattah_el-Sisi> .
 
 <http://example.org/kg/person/ahmed_al_sharaa> a schema1:Person ;
     rdfs:label "Ahmed al-Sharaa" ;
-    ex:sourceUrl "https://english.elpais.com/economy-and-business/2026-01-20/the-us-europe-standoff-reaches-davos-set-to-hold-a-critical-meeting-on-greenland.html"^^xsd:anyURI .
+    ex:sourceUrl "https://english.elpais.com/economy-and-business/2026-01-20/the-us-europe-standoff-reaches-davos-set-to-hold-a-critical-meeting-on-greenland.html"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/List_of_Yemeni_detainees_at_Guantanamo_Bay> .
 
 <http://example.org/kg/person/alex_karp> a schema1:Person ;
     rdfs:label "Alex Karp" ;
-    ex:sourceUrl "https://english.elpais.com/economy-and-business/2026-01-20/the-us-europe-standoff-reaches-davos-set-to-hold-a-critical-meeting-on-greenland.html"^^xsd:anyURI .
+    ex:sourceUrl "https://english.elpais.com/economy-and-business/2026-01-20/the-us-europe-standoff-reaches-davos-set-to-hold-a-critical-meeting-on-greenland.html"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/Alex_Karp> .
 
 <http://example.org/kg/person/andreas_sthagen> a schema1:Person ;
     rdfs:label "Andreas Østhagen" ;
     ex:related_to <http://example.org/kg/org/the_fridtjof_nansen_institute_senior> ;
-    ex:sourceUrl "https://www.thearcticinstitute.org/trump-greenland-logic-chaos/"^^xsd:anyURI .
+    ex:sourceUrl "https://www.thearcticinstitute.org/trump-greenland-logic-chaos/"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/Grand_Theft_Auto:_San_Andreas> .
 
 <http://example.org/kg/person/biden> a schema1:Person ;
     rdfs:label "Biden" ;
     ex:sourceUrl "https://apnews.com/article/2b12bb104faaaafda2ed270febfb0522"^^xsd:anyURI,
-        "https://www.theguardian.com/world/2026/feb/14/denmark-us-powers-legal-action-greenland-washington-donald-trump-europe"^^xsd:anyURI .
+        "https://www.theguardian.com/world/2026/feb/14/denmark-us-powers-legal-action-greenland-washington-donald-trump-europe"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/Joe_Biden> .
 
 <http://example.org/kg/person/emmanuel_macron> a schema1:Person ;
     rdfs:label "Emmanuel Macron" ;
-    ex:sourceUrl "https://english.elpais.com/economy-and-business/2026-01-20/the-us-europe-standoff-reaches-davos-set-to-hold-a-critical-meeting-on-greenland.html"^^xsd:anyURI .
+    ex:sourceUrl "https://english.elpais.com/economy-and-business/2026-01-20/the-us-europe-standoff-reaches-davos-set-to-hold-a-critical-meeting-on-greenland.html"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/Emmanuel_Macron> .
 
 <http://example.org/kg/person/friedrich_merz> a schema1:Person ;
     rdfs:label "Friedrich Merz" ;
-    ex:sourceUrl "https://english.elpais.com/economy-and-business/2026-01-20/the-us-europe-standoff-reaches-davos-set-to-hold-a-critical-meeting-on-greenland.html"^^xsd:anyURI .
+    ex:sourceUrl "https://english.elpais.com/economy-and-business/2026-01-20/the-us-europe-standoff-reaches-davos-set-to-hold-a-critical-meeting-on-greenland.html"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/Friedrich_Merz> .
 
 <http://example.org/kg/person/giorgia_meloni> a schema1:Person ;
     rdfs:label "Giorgia Meloni" ;
     ex:related_to <http://example.org/kg/person/trump> ;
-    ex:sourceUrl "https://english.elpais.com/economy-and-business/2026-01-20/the-us-europe-standoff-reaches-davos-set-to-hold-a-critical-meeting-on-greenland.html"^^xsd:anyURI .
+    ex:sourceUrl "https://english.elpais.com/economy-and-business/2026-01-20/the-us-europe-standoff-reaches-davos-set-to-hold-a-critical-meeting-on-greenland.html"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/Giorgia_Meloni> .
 
 <http://example.org/kg/person/greenlandic> a schema1:Person ;
     rdfs:label "Greenlandic" ;
@@ -348,91 +406,112 @@ ex:oppose rdfs:label "oppose" ;
 
 <http://example.org/kg/person/harry_truman> a schema1:Person ;
     rdfs:label "Harry Truman" ;
-    ex:sourceUrl "https://english.elpais.com/international/2026-01-12/how-trump-can-take-greenland-the-easy-way-or-the-hard-way.html"^^xsd:anyURI .
+    ex:sourceUrl "https://english.elpais.com/international/2026-01-12/how-trump-can-take-greenland-the-easy-way-or-the-hard-way.html"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/Harry_S._Truman> .
 
 <http://example.org/kg/person/j_d_vance> a schema1:Person ;
     rdfs:label "J.D. Vance" ;
-    ex:sourceUrl "https://english.elpais.com/international/2026-01-12/how-trump-can-take-greenland-the-easy-way-or-the-hard-way.html"^^xsd:anyURI .
+    ex:sourceUrl "https://english.elpais.com/international/2026-01-12/how-trump-can-take-greenland-the-easy-way-or-the-hard-way.html"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/J._D._Vance> .
 
 <http://example.org/kg/person/james_monroe> a schema1:Person ;
     rdfs:label "James Monroe" ;
-    ex:sourceUrl "https://www.thearcticinstitute.org/trump-greenland-logic-chaos/"^^xsd:anyURI .
+    ex:sourceUrl "https://www.thearcticinstitute.org/trump-greenland-logic-chaos/"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/James_Monroe> .
 
 <http://example.org/kg/person/jamie_shea> a schema1:Person ;
     rdfs:label "Jamie Shea" ;
     ex:related_to <http://example.org/kg/org/nato> ;
-    ex:sourceUrl "https://english.elpais.com/international/2026-01-10/a-trump-intervention-in-greenland-would-destroy-nato.html"^^xsd:anyURI .
+    ex:sourceUrl "https://english.elpais.com/international/2026-01-10/a-trump-intervention-in-greenland-would-destroy-nato.html"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/Jamie_Shea> .
 
 <http://example.org/kg/person/jeff_landry> a schema1:Person ;
     rdfs:label "Jeff Landry" ;
-    ex:sourceUrl "https://english.elpais.com/international/2026-01-12/how-trump-can-take-greenland-the-easy-way-or-the-hard-way.html"^^xsd:anyURI .
+    ex:sourceUrl "https://english.elpais.com/international/2026-01-12/how-trump-can-take-greenland-the-easy-way-or-the-hard-way.html"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/Jeff_Landry> .
 
 <http://example.org/kg/person/jens_frederik_nielsen> a schema1:Person ;
     rdfs:label "Jens Frederik Nielsen",
         "Jens-Frederik Nielsen" ;
     ex:sourceUrl "https://apnews.com/article/2b12bb104faaaafda2ed270febfb0522"^^xsd:anyURI,
-        "https://english.elpais.com/international/2026-01-12/how-trump-can-take-greenland-the-easy-way-or-the-hard-way.html"^^xsd:anyURI .
+        "https://english.elpais.com/international/2026-01-12/how-trump-can-take-greenland-the-easy-way-or-the-hard-way.html"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/List_of_minor_planet_discoverers> .
 
 <http://example.org/kg/person/jensen_huang> a schema1:Person ;
     rdfs:label "Jensen Huang" ;
-    ex:sourceUrl "https://english.elpais.com/economy-and-business/2026-01-20/the-us-europe-standoff-reaches-davos-set-to-hold-a-critical-meeting-on-greenland.html"^^xsd:anyURI .
+    ex:sourceUrl "https://english.elpais.com/economy-and-business/2026-01-20/the-us-europe-standoff-reaches-davos-set-to-hold-a-critical-meeting-on-greenland.html"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/Jensen_Huang> .
 
 <http://example.org/kg/person/jesper_mller_srensen> a schema1:Person ;
     rdfs:label "Jesper Møller Sørensen" ;
-    ex:sourceUrl "https://apnews.com/article/2b12bb104faaaafda2ed270febfb0522"^^xsd:anyURI .
+    ex:sourceUrl "https://apnews.com/article/2b12bb104faaaafda2ed270febfb0522"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/In_Flames> .
 
 <http://example.org/kg/person/jon_rahbek_clemmensen> a schema1:Person ;
     rdfs:label "Jon Rahbek-Clemmensen" ;
-    ex:sourceUrl "https://english.elpais.com/international/2026-01-12/how-trump-can-take-greenland-the-easy-way-or-the-hard-way.html"^^xsd:anyURI .
+    ex:sourceUrl "https://english.elpais.com/international/2026-01-12/how-trump-can-take-greenland-the-easy-way-or-the-hard-way.html"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/Lil_Jon> .
 
 <http://example.org/kg/person/jonas_parello_plesner> a schema1:Person ;
     rdfs:label "Jonas Parello-Plesner" ;
-    ex:sourceUrl "https://english.elpais.com/international/2026-01-12/how-trump-can-take-greenland-the-easy-way-or-the-hard-way.html"^^xsd:anyURI .
+    ex:sourceUrl "https://english.elpais.com/international/2026-01-12/how-trump-can-take-greenland-the-easy-way-or-the-hard-way.html"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/Jonas_Brothers> .
 
 <http://example.org/kg/person/katie_miller> a schema1:Person ;
     rdfs:label "Katie Miller" ;
-    ex:sourceUrl "https://apnews.com/article/2b12bb104faaaafda2ed270febfb0522"^^xsd:anyURI .
+    ex:sourceUrl "https://apnews.com/article/2b12bb104faaaafda2ed270febfb0522"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/Kate_Miller-Heidke> .
 
 <http://example.org/kg/person/lars_bangert_struwe> a schema1:Person ;
     rdfs:label "Lars Bangert Struwe" ;
-    ex:sourceUrl "https://english.elpais.com/international/2026-01-12/how-trump-can-take-greenland-the-easy-way-or-the-hard-way.html"^^xsd:anyURI .
+    ex:sourceUrl "https://english.elpais.com/international/2026-01-12/how-trump-can-take-greenland-the-easy-way-or-the-hard-way.html"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/Norway_national_football_team> .
 
 <http://example.org/kg/person/lars_rasmussen> a schema1:Person ;
     rdfs:label "Lars Rasmussen" ;
-    ex:sourceUrl "https://www.gov.uk/government/speeches/foreign-secretary-statement-to-the-house-on-greenland-and-wider-arctic-security"^^xsd:anyURI .
+    ex:sourceUrl "https://www.gov.uk/government/speeches/foreign-secretary-statement-to-the-house-on-greenland-and-wider-arctic-security"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/Lars_Løkke_Rasmussen> .
 
 <http://example.org/kg/person/lifeng> a schema1:Person ;
     rdfs:label "Lifeng" ;
-    ex:sourceUrl "https://english.elpais.com/economy-and-business/2026-01-20/the-us-europe-standoff-reaches-davos-set-to-hold-a-critical-meeting-on-greenland.html"^^xsd:anyURI .
+    ex:sourceUrl "https://english.elpais.com/economy-and-business/2026-01-20/the-us-europe-standoff-reaches-davos-set-to-hold-a-critical-meeting-on-greenland.html"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/Zhang_Lifeng> .
 
 <http://example.org/kg/person/manuel_muniz> a schema1:Person ;
     rdfs:label "Manuel Muñiz" ;
-    ex:sourceUrl "https://english.elpais.com/international/2026-01-10/a-trump-intervention-in-greenland-would-destroy-nato.html"^^xsd:anyURI .
+    ex:sourceUrl "https://english.elpais.com/international/2026-01-10/a-trump-intervention-in-greenland-would-destroy-nato.html"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/Manu_Fernández> .
 
 <http://example.org/kg/person/marco_rubio> a schema1:Person ;
     rdfs:label "Marco Rubio" ;
-    ex:sourceUrl "https://english.elpais.com/international/2026-01-12/how-trump-can-take-greenland-the-easy-way-or-the-hard-way.html"^^xsd:anyURI .
+    ex:sourceUrl "https://english.elpais.com/international/2026-01-12/how-trump-can-take-greenland-the-easy-way-or-the-hard-way.html"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/Marco_Rubio> .
 
 <http://example.org/kg/person/marion_messmer> a schema1:Person ;
     rdfs:label "Marion Messmer" ;
-    ex:sourceUrl "https://english.elpais.com/international/2026-01-10/a-trump-intervention-in-greenland-would-destroy-nato.html"^^xsd:anyURI .
+    ex:sourceUrl "https://english.elpais.com/international/2026-01-10/a-trump-intervention-in-greenland-would-destroy-nato.html"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/Indianapolis> .
 
 <http://example.org/kg/person/mark_carney> a schema1:Person ;
     rdfs:label "Mark Carney" ;
-    ex:sourceUrl "https://english.elpais.com/economy-and-business/2026-01-20/the-us-europe-standoff-reaches-davos-set-to-hold-a-critical-meeting-on-greenland.html"^^xsd:anyURI .
+    ex:sourceUrl "https://english.elpais.com/economy-and-business/2026-01-20/the-us-europe-standoff-reaches-davos-set-to-hold-a-critical-meeting-on-greenland.html"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/Mark_Carney> .
 
 <http://example.org/kg/person/mark_rutte> a schema1:Person ;
     rdfs:label "Mark Rutte" ;
-    ex:sourceUrl "https://english.elpais.com/economy-and-business/2026-01-20/the-us-europe-standoff-reaches-davos-set-to-hold-a-critical-meeting-on-greenland.html"^^xsd:anyURI .
+    ex:sourceUrl "https://english.elpais.com/economy-and-business/2026-01-20/the-us-europe-standoff-reaches-davos-set-to-hold-a-critical-meeting-on-greenland.html"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/Mark_Rutte> .
 
 <http://example.org/kg/person/nicolas_maduro> a schema1:Person ;
     rdfs:label "Nicolás Maduro" ;
     ex:sourceUrl "https://apnews.com/article/2b12bb104faaaafda2ed270febfb0522"^^xsd:anyURI,
-        "https://english.elpais.com/international/2026-01-10/a-trump-intervention-in-greenland-would-destroy-nato.html"^^xsd:anyURI .
+        "https://english.elpais.com/international/2026-01-10/a-trump-intervention-in-greenland-would-destroy-nato.html"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/Nicolás_Maduro> .
 
 <http://example.org/kg/person/nigel_farage> a schema1:Person ;
     rdfs:label "Nigel Farage" ;
-    ex:sourceUrl "https://english.elpais.com/economy-and-business/2026-01-20/the-us-europe-standoff-reaches-davos-set-to-hold-a-critical-meeting-on-greenland.html"^^xsd:anyURI .
+    ex:sourceUrl "https://english.elpais.com/economy-and-business/2026-01-20/the-us-europe-standoff-reaches-davos-set-to-hold-a-critical-meeting-on-greenland.html"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/Nigel_Farage> .
 
 <http://example.org/kg/person/palantir> a schema1:Person ;
     rdfs:label "Palantir" ;
@@ -446,32 +525,39 @@ ex:oppose rdfs:label "oppose" ;
 
 <http://example.org/kg/person/peter_thiel> a schema1:Person ;
     rdfs:label "Peter Thiel" ;
-    ex:sourceUrl "https://english.elpais.com/economy-and-business/2026-01-20/the-us-europe-standoff-reaches-davos-set-to-hold-a-critical-meeting-on-greenland.html"^^xsd:anyURI .
+    ex:sourceUrl "https://english.elpais.com/economy-and-business/2026-01-20/the-us-europe-standoff-reaches-davos-set-to-hold-a-critical-meeting-on-greenland.html"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/Peter_Thiel> .
 
 <http://example.org/kg/person/peter_vedel_kessing> a schema1:Person ;
     rdfs:label "Peter Vedel Kessing" ;
-    ex:sourceUrl "https://www.theguardian.com/world/2026/feb/14/denmark-us-powers-legal-action-greenland-washington-donald-trump-europe"^^xsd:anyURI .
+    ex:sourceUrl "https://www.theguardian.com/world/2026/feb/14/denmark-us-powers-legal-action-greenland-washington-donald-trump-europe"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/Norway> .
 
 <http://example.org/kg/person/prabowo_subianto> a schema1:Person ;
     rdfs:label "Prabowo Subianto" ;
-    ex:sourceUrl "https://english.elpais.com/economy-and-business/2026-01-20/the-us-europe-standoff-reaches-davos-set-to-hold-a-critical-meeting-on-greenland.html"^^xsd:anyURI .
+    ex:sourceUrl "https://english.elpais.com/economy-and-business/2026-01-20/the-us-europe-standoff-reaches-davos-set-to-hold-a-critical-meeting-on-greenland.html"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/Prabowo_Subianto> .
 
 <http://example.org/kg/person/satya_nadella> a schema1:Person ;
     rdfs:label "Satya Nadella" ;
-    ex:sourceUrl "https://english.elpais.com/economy-and-business/2026-01-20/the-us-europe-standoff-reaches-davos-set-to-hold-a-critical-meeting-on-greenland.html"^^xsd:anyURI .
+    ex:sourceUrl "https://english.elpais.com/economy-and-business/2026-01-20/the-us-europe-standoff-reaches-davos-set-to-hold-a-critical-meeting-on-greenland.html"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/Satya_Nadella> .
 
 <http://example.org/kg/person/scavenius> a schema1:Person ;
     rdfs:label "Scavenius" ;
-    ex:sourceUrl "https://www.theguardian.com/world/2026/feb/14/denmark-us-powers-legal-action-greenland-washington-donald-trump-europe"^^xsd:anyURI .
+    ex:sourceUrl "https://www.theguardian.com/world/2026/feb/14/denmark-us-powers-legal-action-greenland-washington-donald-trump-europe"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/Jacob_Brønnum_Scavenius_Estrup> .
 
 <http://example.org/kg/person/scott_bessent> a schema1:Person ;
     rdfs:label "Scott Bessent" ;
-    ex:sourceUrl "https://english.elpais.com/economy-and-business/2026-01-20/the-us-europe-standoff-reaches-davos-set-to-hold-a-critical-meeting-on-greenland.html"^^xsd:anyURI .
+    ex:sourceUrl "https://english.elpais.com/economy-and-business/2026-01-20/the-us-europe-standoff-reaches-davos-set-to-hold-a-critical-meeting-on-greenland.html"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/Scott_Bessent> .
 
 <http://example.org/kg/person/stephen_miller> a schema1:Person ;
     rdfs:label "Stephen Miller" ;
     ex:sourceUrl "https://apnews.com/article/2b12bb104faaaafda2ed270febfb0522"^^xsd:anyURI,
-        "https://english.elpais.com/international/2026-01-10/a-trump-intervention-in-greenland-would-destroy-nato.html"^^xsd:anyURI .
+        "https://english.elpais.com/international/2026-01-10/a-trump-intervention-in-greenland-would-destroy-nato.html"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/Stephen_Miller_(political_advisor)> .
 
 <http://example.org/kg/person/struwe> a schema1:Person ;
     rdfs:label "Struwe" ;
@@ -481,67 +567,82 @@ ex:oppose rdfs:label "oppose" ;
 
 <http://example.org/kg/person/theresa_scavenius> a schema1:Person ;
     rdfs:label "Theresa Scavenius" ;
-    ex:sourceUrl "https://www.theguardian.com/world/2026/feb/14/denmark-us-powers-legal-action-greenland-washington-donald-trump-europe"^^xsd:anyURI .
+    ex:sourceUrl "https://www.theguardian.com/world/2026/feb/14/denmark-us-powers-legal-action-greenland-washington-donald-trump-europe"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/Theresa_Scavenius> .
 
 <http://example.org/kg/person/truman> a schema1:Person ;
     rdfs:label "Truman" ;
-    ex:sourceUrl "https://english.elpais.com/international/2026-01-12/how-trump-can-take-greenland-the-easy-way-or-the-hard-way.html"^^xsd:anyURI .
+    ex:sourceUrl "https://english.elpais.com/international/2026-01-12/how-trump-can-take-greenland-the-easy-way-or-the-hard-way.html"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/Harry_S._Truman> .
 
 <http://example.org/kg/person/trump_greenland> a schema1:Person ;
     rdfs:label "Trump & Greenland" ;
-    ex:sourceUrl "https://www.thearcticinstitute.org/trump-greenland-logic-chaos/"^^xsd:anyURI .
+    ex:sourceUrl "https://www.thearcticinstitute.org/trump-greenland-logic-chaos/"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/Denmark> .
 
 <http://example.org/kg/person/ulrik_pram_gad> a schema1:Person ;
     rdfs:label "Ulrik Pram Gad" ;
-    ex:sourceUrl "https://apnews.com/article/2b12bb104faaaafda2ed270febfb0522"^^xsd:anyURI .
+    ex:sourceUrl "https://apnews.com/article/2b12bb104faaaafda2ed270febfb0522"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/List_of_minor_planet_discoverers> .
 
 <http://example.org/kg/person/ursula_von_der> a schema1:Person ;
     rdfs:label "Ursula von der" ;
-    ex:sourceUrl "https://english.elpais.com/economy-and-business/2026-01-20/the-us-europe-standoff-reaches-davos-set-to-hold-a-critical-meeting-on-greenland.html"^^xsd:anyURI .
+    ex:sourceUrl "https://english.elpais.com/economy-and-business/2026-01-20/the-us-europe-standoff-reaches-davos-set-to-hold-a-critical-meeting-on-greenland.html"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/Ursula_von_der_Leyen> .
 
 <http://example.org/kg/person/vladimir_putin> a schema1:Person ;
     rdfs:label "Vladimir Putin" ;
-    ex:sourceUrl "https://english.elpais.com/international/2026-01-12/how-trump-can-take-greenland-the-easy-way-or-the-hard-way.html"^^xsd:anyURI .
+    ex:sourceUrl "https://english.elpais.com/international/2026-01-12/how-trump-can-take-greenland-the-easy-way-or-the-hard-way.html"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/Vladimir_Putin> .
 
 <http://example.org/kg/person/volodymyr_zelenskiy> a schema1:Person ;
     rdfs:label "Volodymyr Zelenskiy" ;
-    ex:sourceUrl "https://english.elpais.com/economy-and-business/2026-01-20/the-us-europe-standoff-reaches-davos-set-to-hold-a-critical-meeting-on-greenland.html"^^xsd:anyURI .
+    ex:sourceUrl "https://english.elpais.com/economy-and-business/2026-01-20/the-us-europe-standoff-reaches-davos-set-to-hold-a-critical-meeting-on-greenland.html"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/Volodymyr_Zelenskyy> .
 
 <http://example.org/kg/place/america> a schema1:Place ;
     rdfs:label "America" ;
-    ex:sourceUrl "https://www.thearcticinstitute.org/trump-greenland-logic-chaos/"^^xsd:anyURI .
+    ex:sourceUrl "https://www.thearcticinstitute.org/trump-greenland-logic-chaos/"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/United_States> .
 
 <http://example.org/kg/place/ankara> a schema1:Place ;
     rdfs:label "Ankara" ;
     ex:intervene_in <http://example.org/kg/org/alliance> ;
-    ex:sourceUrl "https://english.elpais.com/international/2026-01-10/a-trump-intervention-in-greenland-would-destroy-nato.html"^^xsd:anyURI .
+    ex:sourceUrl "https://english.elpais.com/international/2026-01-10/a-trump-intervention-in-greenland-would-destroy-nato.html"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/Ankara> .
 
 <http://example.org/kg/place/argentina> a schema1:Place ;
     rdfs:label "Argentina" ;
-    ex:sourceUrl "https://english.elpais.com/economy-and-business/2026-01-20/the-us-europe-standoff-reaches-davos-set-to-hold-a-critical-meeting-on-greenland.html"^^xsd:anyURI .
+    ex:sourceUrl "https://english.elpais.com/economy-and-business/2026-01-20/the-us-europe-standoff-reaches-davos-set-to-hold-a-critical-meeting-on-greenland.html"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/Argentina> .
 
 <http://example.org/kg/place/beijing> a schema1:Place ;
     rdfs:label "Beijing" ;
     ex:sourceUrl "https://english.elpais.com/economy-and-business/2026-01-20/the-us-europe-standoff-reaches-davos-set-to-hold-a-critical-meeting-on-greenland.html"^^xsd:anyURI,
-        "https://www.thearcticinstitute.org/trump-greenland-logic-chaos/"^^xsd:anyURI .
+        "https://www.thearcticinstitute.org/trump-greenland-logic-chaos/"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/Beijing> .
 
 <http://example.org/kg/place/berlin> a schema1:Place ;
     rdfs:label "Berlin" ;
-    ex:sourceUrl "https://apnews.com/article/2b12bb104faaaafda2ed270febfb0522"^^xsd:anyURI .
+    ex:sourceUrl "https://apnews.com/article/2b12bb104faaaafda2ed270febfb0522"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/Berlin> .
 
 <http://example.org/kg/place/brussels> a schema1:Place ;
     rdfs:label "Brussels" ;
-    ex:sourceUrl "https://english.elpais.com/international/2026-01-10/a-trump-intervention-in-greenland-would-destroy-nato.html"^^xsd:anyURI .
+    ex:sourceUrl "https://english.elpais.com/international/2026-01-10/a-trump-intervention-in-greenland-would-destroy-nato.html"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/Brussels> .
 
 <http://example.org/kg/place/canada> a schema1:Place ;
     rdfs:label "Canada" ;
     ex:sourceUrl "https://english.elpais.com/economy-and-business/2026-01-20/the-us-europe-standoff-reaches-davos-set-to-hold-a-critical-meeting-on-greenland.html"^^xsd:anyURI,
         "https://www.gov.uk/government/speeches/foreign-secretary-statement-to-the-house-on-greenland-and-wider-arctic-security"^^xsd:anyURI,
-        "https://www.thearcticinstitute.org/trump-greenland-logic-chaos/"^^xsd:anyURI .
+        "https://www.thearcticinstitute.org/trump-greenland-logic-chaos/"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/Canada> .
 
 <http://example.org/kg/place/caracas> a schema1:Place ;
     rdfs:label "Caracas" ;
-    ex:sourceUrl "https://apnews.com/article/2b12bb104faaaafda2ed270febfb0522"^^xsd:anyURI .
+    ex:sourceUrl "https://apnews.com/article/2b12bb104faaaafda2ed270febfb0522"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/Caracas> .
 
 <http://example.org/kg/place/china> a schema1:Place ;
     rdfs:label "China" ;
@@ -550,7 +651,8 @@ ex:oppose rdfs:label "oppose" ;
     ex:sourceUrl "https://english.elpais.com/economy-and-business/2026-01-20/the-us-europe-standoff-reaches-davos-set-to-hold-a-critical-meeting-on-greenland.html"^^xsd:anyURI,
         "https://english.elpais.com/international/2026-01-10/a-trump-intervention-in-greenland-would-destroy-nato.html"^^xsd:anyURI,
         "https://english.elpais.com/international/2026-01-12/how-trump-can-take-greenland-the-easy-way-or-the-hard-way.html"^^xsd:anyURI,
-        "https://www.thearcticinstitute.org/trump-greenland-logic-chaos/"^^xsd:anyURI .
+        "https://www.thearcticinstitute.org/trump-greenland-logic-chaos/"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/China> .
 
 <http://example.org/kg/place/copenhagen> a schema1:Place ;
     rdfs:label "COPENHAGEN",
@@ -558,50 +660,61 @@ ex:oppose rdfs:label "oppose" ;
     ex:related_to <http://example.org/kg/place/washington> ;
     ex:sourceUrl "https://apnews.com/article/2b12bb104faaaafda2ed270febfb0522"^^xsd:anyURI,
         "https://english.elpais.com/international/2026-01-12/how-trump-can-take-greenland-the-easy-way-or-the-hard-way.html"^^xsd:anyURI,
-        "https://www.thearcticinstitute.org/trump-greenland-logic-chaos/"^^xsd:anyURI .
+        "https://www.thearcticinstitute.org/trump-greenland-logic-chaos/"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/Copenhagen> .
 
 <http://example.org/kg/place/cordoba> a schema1:Place ;
     rdfs:label "Córdoba" ;
-    ex:sourceUrl "https://www.gov.uk/government/speeches/foreign-secretary-statement-to-the-house-on-greenland-and-wider-arctic-security"^^xsd:anyURI .
+    ex:sourceUrl "https://www.gov.uk/government/speeches/foreign-secretary-statement-to-the-house-on-greenland-and-wider-arctic-security"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/Córdoba_CF> .
 
 <http://example.org/kg/place/crimea> a schema1:Place ;
     rdfs:label "Crimea" ;
-    ex:sourceUrl "https://english.elpais.com/international/2026-01-12/how-trump-can-take-greenland-the-easy-way-or-the-hard-way.html"^^xsd:anyURI .
+    ex:sourceUrl "https://english.elpais.com/international/2026-01-12/how-trump-can-take-greenland-the-easy-way-or-the-hard-way.html"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/Crimea> .
 
 <http://example.org/kg/place/cyprus> a schema1:Place ;
     rdfs:label "Cyprus" ;
-    ex:sourceUrl "https://english.elpais.com/international/2026-01-10/a-trump-intervention-in-greenland-would-destroy-nato.html"^^xsd:anyURI .
+    ex:sourceUrl "https://english.elpais.com/international/2026-01-10/a-trump-intervention-in-greenland-would-destroy-nato.html"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/Cyprus> .
 
 <http://example.org/kg/place/d_c> a schema1:Place ;
     rdfs:label "D.C." ;
-    ex:sourceUrl "https://www.thearcticinstitute.org/trump-greenland-logic-chaos/"^^xsd:anyURI .
+    ex:sourceUrl "https://www.thearcticinstitute.org/trump-greenland-logic-chaos/"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/Washington,_D.C.> .
 
 <http://example.org/kg/place/egypt> a schema1:Place ;
     rdfs:label "Egypt" ;
-    ex:sourceUrl "https://english.elpais.com/economy-and-business/2026-01-20/the-us-europe-standoff-reaches-davos-set-to-hold-a-critical-meeting-on-greenland.html"^^xsd:anyURI .
+    ex:sourceUrl "https://english.elpais.com/economy-and-business/2026-01-20/the-us-europe-standoff-reaches-davos-set-to-hold-a-critical-meeting-on-greenland.html"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/Egypt> .
 
 <http://example.org/kg/place/estonia> a schema1:Place ;
     rdfs:label "Estonia" ;
     ex:sourceUrl "https://www.gov.uk/government/speeches/foreign-secretary-statement-to-the-house-on-greenland-and-wider-arctic-security"^^xsd:anyURI,
-        "https://www.thearcticinstitute.org/trump-greenland-logic-chaos/"^^xsd:anyURI .
+        "https://www.thearcticinstitute.org/trump-greenland-logic-chaos/"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/Estonia> .
 
 <http://example.org/kg/place/florida> a schema1:Place ;
     rdfs:label "Florida" ;
-    ex:sourceUrl "https://apnews.com/article/2b12bb104faaaafda2ed270febfb0522"^^xsd:anyURI .
+    ex:sourceUrl "https://apnews.com/article/2b12bb104faaaafda2ed270febfb0522"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/Florida> .
 
 <http://example.org/kg/place/france> a schema1:Place ;
     rdfs:label "France" ;
     ex:sourceUrl "https://english.elpais.com/economy-and-business/2026-01-20/the-us-europe-standoff-reaches-davos-set-to-hold-a-critical-meeting-on-greenland.html"^^xsd:anyURI,
-        "https://www.gov.uk/government/speeches/foreign-secretary-statement-to-the-house-on-greenland-and-wider-arctic-security"^^xsd:anyURI .
+        "https://www.gov.uk/government/speeches/foreign-secretary-statement-to-the-house-on-greenland-and-wider-arctic-security"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/France> .
 
 <http://example.org/kg/place/germany> a schema1:Place ;
     rdfs:label "Germany" ;
     ex:sourceUrl "https://english.elpais.com/economy-and-business/2026-01-20/the-us-europe-standoff-reaches-davos-set-to-hold-a-critical-meeting-on-greenland.html"^^xsd:anyURI,
-        "https://www.gov.uk/government/speeches/foreign-secretary-statement-to-the-house-on-greenland-and-wider-arctic-security"^^xsd:anyURI .
+        "https://www.gov.uk/government/speeches/foreign-secretary-statement-to-the-house-on-greenland-and-wider-arctic-security"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/Germany> .
 
 <http://example.org/kg/place/greece> a schema1:Place ;
     rdfs:label "Greece" ;
-    ex:sourceUrl "https://english.elpais.com/international/2026-01-10/a-trump-intervention-in-greenland-would-destroy-nato.html"^^xsd:anyURI .
+    ex:sourceUrl "https://english.elpais.com/international/2026-01-10/a-trump-intervention-in-greenland-would-destroy-nato.html"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/Greece> .
 
 <http://example.org/kg/place/greenlandic> a schema1:Place ;
     rdfs:label "Greenlandic" ;
@@ -611,118 +724,146 @@ ex:oppose rdfs:label "oppose" ;
 <http://example.org/kg/place/helsinki> a schema1:Place ;
     rdfs:label "Helsinki" ;
     ex:meet <http://example.org/kg/place/finland> ;
-    ex:sourceUrl "https://www.gov.uk/government/speeches/foreign-secretary-statement-to-the-house-on-greenland-and-wider-arctic-security"^^xsd:anyURI .
+    ex:sourceUrl "https://www.gov.uk/government/speeches/foreign-secretary-statement-to-the-house-on-greenland-and-wider-arctic-security"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/Helsinki> .
 
 <http://example.org/kg/place/india> a schema1:Place ;
     rdfs:label "India" ;
-    ex:sourceUrl "https://english.elpais.com/economy-and-business/2026-01-20/the-us-europe-standoff-reaches-davos-set-to-hold-a-critical-meeting-on-greenland.html"^^xsd:anyURI .
+    ex:sourceUrl "https://english.elpais.com/economy-and-business/2026-01-20/the-us-europe-standoff-reaches-davos-set-to-hold-a-critical-meeting-on-greenland.html"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/India> .
 
 <http://example.org/kg/place/indonesia> a schema1:Place ;
     rdfs:label "Indonesia" ;
-    ex:sourceUrl "https://english.elpais.com/economy-and-business/2026-01-20/the-us-europe-standoff-reaches-davos-set-to-hold-a-critical-meeting-on-greenland.html"^^xsd:anyURI .
+    ex:sourceUrl "https://english.elpais.com/economy-and-business/2026-01-20/the-us-europe-standoff-reaches-davos-set-to-hold-a-critical-meeting-on-greenland.html"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/Indonesia> .
 
 <http://example.org/kg/place/iran> a schema1:Place ;
     rdfs:label "Iran" ;
-    ex:sourceUrl "https://english.elpais.com/economy-and-business/2026-01-20/the-us-europe-standoff-reaches-davos-set-to-hold-a-critical-meeting-on-greenland.html"^^xsd:anyURI .
+    ex:sourceUrl "https://english.elpais.com/economy-and-business/2026-01-20/the-us-europe-standoff-reaches-davos-set-to-hold-a-critical-meeting-on-greenland.html"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/Iran> .
 
 <http://example.org/kg/place/karup> a schema1:Place ;
     rdfs:label "Karup" ;
-    ex:sourceUrl "https://www.theguardian.com/world/2026/feb/14/denmark-us-powers-legal-action-greenland-washington-donald-trump-europe"^^xsd:anyURI .
+    ex:sourceUrl "https://www.theguardian.com/world/2026/feb/14/denmark-us-powers-legal-action-greenland-washington-donald-trump-europe"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/Västra_Karup> .
 
 <http://example.org/kg/place/kyiv> a schema1:Place ;
     rdfs:label "Kyiv" ;
-    ex:sourceUrl "https://english.elpais.com/economy-and-business/2026-01-20/the-us-europe-standoff-reaches-davos-set-to-hold-a-critical-meeting-on-greenland.html"^^xsd:anyURI .
+    ex:sourceUrl "https://english.elpais.com/economy-and-business/2026-01-20/the-us-europe-standoff-reaches-davos-set-to-hold-a-critical-meeting-on-greenland.html"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/FC_Dynamo_Kyiv> .
 
 <http://example.org/kg/place/london> a schema1:Place ;
     rdfs:label "London" ;
-    ex:sourceUrl "https://www.gov.uk/government/speeches/foreign-secretary-statement-to-the-house-on-greenland-and-wider-arctic-security"^^xsd:anyURI .
+    ex:sourceUrl "https://www.gov.uk/government/speeches/foreign-secretary-statement-to-the-house-on-greenland-and-wider-arctic-security"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/London> .
 
 <http://example.org/kg/place/micronesia> a schema1:Place ;
     rdfs:label "Micronesia" ;
-    ex:sourceUrl "https://english.elpais.com/international/2026-01-12/how-trump-can-take-greenland-the-easy-way-or-the-hard-way.html"^^xsd:anyURI .
+    ex:sourceUrl "https://english.elpais.com/international/2026-01-12/how-trump-can-take-greenland-the-easy-way-or-the-hard-way.html"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/Federated_States_of_Micronesia> .
 
 <http://example.org/kg/place/moldova> a schema1:Place ;
     rdfs:label "Moldova" ;
-    ex:sourceUrl "https://www.thearcticinstitute.org/trump-greenland-logic-chaos/"^^xsd:anyURI .
+    ex:sourceUrl "https://www.thearcticinstitute.org/trump-greenland-logic-chaos/"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/Moldova> .
 
 <http://example.org/kg/place/mongolia> a schema1:Place ;
     rdfs:label "Mongolia" ;
-    ex:sourceUrl "https://www.thearcticinstitute.org/trump-greenland-logic-chaos/"^^xsd:anyURI .
+    ex:sourceUrl "https://www.thearcticinstitute.org/trump-greenland-logic-chaos/"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/Mongolia> .
 
 <http://example.org/kg/place/napoleonic_france> a schema1:Place ;
     rdfs:label "Napoleonic France" ;
-    ex:sourceUrl "https://english.elpais.com/international/2026-01-12/how-trump-can-take-greenland-the-easy-way-or-the-hard-way.html"^^xsd:anyURI .
+    ex:sourceUrl "https://english.elpais.com/international/2026-01-12/how-trump-can-take-greenland-the-easy-way-or-the-hard-way.html"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/Peninsular_War> .
 
 <http://example.org/kg/place/netherlands> a schema1:Place ;
     rdfs:label "Netherlands" ;
-    ex:sourceUrl "https://www.gov.uk/government/speeches/foreign-secretary-statement-to-the-house-on-greenland-and-wider-arctic-security"^^xsd:anyURI .
+    ex:sourceUrl "https://www.gov.uk/government/speeches/foreign-secretary-statement-to-the-house-on-greenland-and-wider-arctic-security"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/Netherlands> .
 
 <http://example.org/kg/place/nuuk> a schema1:Place ;
     rdfs:label "Nuuk" ;
-    ex:sourceUrl "https://english.elpais.com/international/2026-01-12/how-trump-can-take-greenland-the-easy-way-or-the-hard-way.html"^^xsd:anyURI .
+    ex:sourceUrl "https://english.elpais.com/international/2026-01-12/how-trump-can-take-greenland-the-easy-way-or-the-hard-way.html"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/Nuuk> .
 
 <http://example.org/kg/place/panama> a schema1:Place ;
     rdfs:label "Panama" ;
     ex:related_to <http://example.org/kg/place/cuba> ;
     ex:sourceUrl "https://english.elpais.com/international/2026-01-12/how-trump-can-take-greenland-the-easy-way-or-the-hard-way.html"^^xsd:anyURI,
-        "https://www.thearcticinstitute.org/trump-greenland-logic-chaos/"^^xsd:anyURI .
+        "https://www.thearcticinstitute.org/trump-greenland-logic-chaos/"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/Panama> .
 
 <http://example.org/kg/place/poland> a schema1:Place ;
     rdfs:label "Poland" ;
-    ex:sourceUrl "https://apnews.com/article/2b12bb104faaaafda2ed270febfb0522"^^xsd:anyURI .
+    ex:sourceUrl "https://apnews.com/article/2b12bb104faaaafda2ed270febfb0522"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/Poland> .
 
 <http://example.org/kg/place/spain> a schema1:Place ;
     rdfs:label "Spain" ;
     ex:sourceUrl "https://english.elpais.com/international/2026-01-10/a-trump-intervention-in-greenland-would-destroy-nato.html"^^xsd:anyURI,
-        "https://www.gov.uk/government/speeches/foreign-secretary-statement-to-the-house-on-greenland-and-wider-arctic-security"^^xsd:anyURI .
+        "https://www.gov.uk/government/speeches/foreign-secretary-statement-to-the-house-on-greenland-and-wider-arctic-security"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/Spain> .
 
 <http://example.org/kg/place/sweden> a schema1:Place ;
     rdfs:label "Sweden" ;
-    ex:sourceUrl "https://www.gov.uk/government/speeches/foreign-secretary-statement-to-the-house-on-greenland-and-wider-arctic-security"^^xsd:anyURI .
+    ex:sourceUrl "https://www.gov.uk/government/speeches/foreign-secretary-statement-to-the-house-on-greenland-and-wider-arctic-security"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/Sweden> .
 
 <http://example.org/kg/place/syria> a schema1:Place ;
     rdfs:label "Syria" ;
-    ex:sourceUrl "https://english.elpais.com/economy-and-business/2026-01-20/the-us-europe-standoff-reaches-davos-set-to-hold-a-critical-meeting-on-greenland.html"^^xsd:anyURI .
+    ex:sourceUrl "https://english.elpais.com/economy-and-business/2026-01-20/the-us-europe-standoff-reaches-davos-set-to-hold-a-critical-meeting-on-greenland.html"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/Syria> .
 
 <http://example.org/kg/place/taiwan> a schema1:Place ;
     rdfs:label "Taiwan" ;
-    ex:sourceUrl "https://www.thearcticinstitute.org/trump-greenland-logic-chaos/"^^xsd:anyURI .
+    ex:sourceUrl "https://www.thearcticinstitute.org/trump-greenland-logic-chaos/"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/Taiwan> .
 
 <http://example.org/kg/place/the_federated_states_of> a schema1:Place ;
     rdfs:label "the Federated States of" ;
-    ex:sourceUrl "https://english.elpais.com/international/2026-01-12/how-trump-can-take-greenland-the-easy-way-or-the-hard-way.html"^^xsd:anyURI .
+    ex:sourceUrl "https://english.elpais.com/international/2026-01-12/how-trump-can-take-greenland-the-easy-way-or-the-hard-way.html"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/Socialist_Federal_Republic_of_Yugoslavia> .
 
 <http://example.org/kg/place/the_marshall_islands> a schema1:Place ;
     rdfs:label "the Marshall Islands" ;
-    ex:sourceUrl "https://english.elpais.com/international/2026-01-12/how-trump-can-take-greenland-the-easy-way-or-the-hard-way.html"^^xsd:anyURI .
+    ex:sourceUrl "https://english.elpais.com/international/2026-01-12/how-trump-can-take-greenland-the-easy-way-or-the-hard-way.html"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/Marshall_Islands> .
 
 <http://example.org/kg/place/the_republic_of_palau> a schema1:Place ;
     rdfs:label "the Republic of Palau" ;
-    ex:sourceUrl "https://english.elpais.com/international/2026-01-12/how-trump-can-take-greenland-the-easy-way-or-the-hard-way.html"^^xsd:anyURI .
+    ex:sourceUrl "https://english.elpais.com/international/2026-01-12/how-trump-can-take-greenland-the-easy-way-or-the-hard-way.html"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/Palau> .
 
 <http://example.org/kg/place/the_soviet_union> a schema1:Place ;
     rdfs:label "the Soviet Union" ;
-    ex:sourceUrl "https://www.thearcticinstitute.org/trump-greenland-logic-chaos/"^^xsd:anyURI .
+    ex:sourceUrl "https://www.thearcticinstitute.org/trump-greenland-logic-chaos/"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/Soviet_Union> .
 
 <http://example.org/kg/place/the_u_s_virgin_islands> a schema1:Place ;
     rdfs:label "the U.S. Virgin Islands" ;
-    ex:sourceUrl "https://english.elpais.com/international/2026-01-12/how-trump-can-take-greenland-the-easy-way-or-the-hard-way.html"^^xsd:anyURI .
+    ex:sourceUrl "https://english.elpais.com/international/2026-01-12/how-trump-can-take-greenland-the-easy-way-or-the-hard-way.html"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/United_States_Virgin_Islands> .
 
 <http://example.org/kg/place/the_united_states_of_america> a schema1:Place ;
     rdfs:label "The United States of America" ;
-    ex:sourceUrl "https://english.elpais.com/international/2026-01-12/how-trump-can-take-greenland-the-easy-way-or-the-hard-way.html"^^xsd:anyURI .
+    ex:sourceUrl "https://english.elpais.com/international/2026-01-12/how-trump-can-take-greenland-the-easy-way-or-the-hard-way.html"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/United_States> .
 
 <http://example.org/kg/place/the_virgin_islands> a schema1:Place ;
     rdfs:label "the Virgin Islands" ;
-    ex:sourceUrl "https://english.elpais.com/international/2026-01-12/how-trump-can-take-greenland-the-easy-way-or-the-hard-way.html"^^xsd:anyURI .
+    ex:sourceUrl "https://english.elpais.com/international/2026-01-12/how-trump-can-take-greenland-the-easy-way-or-the-hard-way.html"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/United_States_Virgin_Islands> .
 
 <http://example.org/kg/place/treaty> a schema1:Place ;
     rdfs:label "Treaty" ;
-    ex:sourceUrl "https://www.gov.uk/government/speeches/foreign-secretary-statement-to-the-house-on-greenland-and-wider-arctic-security"^^xsd:anyURI .
+    ex:sourceUrl "https://www.gov.uk/government/speeches/foreign-secretary-statement-to-the-house-on-greenland-and-wider-arctic-security"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/Treaty_8> .
 
 <http://example.org/kg/place/turkey> a schema1:Place ;
     rdfs:label "Turkey" ;
-    ex:sourceUrl "https://english.elpais.com/international/2026-01-10/a-trump-intervention-in-greenland-would-destroy-nato.html"^^xsd:anyURI .
+    ex:sourceUrl "https://english.elpais.com/international/2026-01-10/a-trump-intervention-in-greenland-would-destroy-nato.html"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/Turkey> .
 
 <http://example.org/kg/place/ukraine> a schema1:Place ;
     rdfs:label "Ukraine" ;
@@ -732,37 +873,47 @@ ex:oppose rdfs:label "oppose" ;
         "https://english.elpais.com/international/2026-01-12/how-trump-can-take-greenland-the-easy-way-or-the-hard-way.html"^^xsd:anyURI,
         "https://www.gov.uk/government/speeches/foreign-secretary-statement-to-the-house-on-greenland-and-wider-arctic-security"^^xsd:anyURI,
         "https://www.thearcticinstitute.org/trump-greenland-logic-chaos/"^^xsd:anyURI,
-        "https://www.theguardian.com/world/2026/feb/14/denmark-us-powers-legal-action-greenland-washington-donald-trump-europe"^^xsd:anyURI .
+        "https://www.theguardian.com/world/2026/feb/14/denmark-us-powers-legal-action-greenland-washington-donald-trump-europe"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/Ukraine> .
 
 <http://example.org/kg/place/usa> a schema1:Place ;
     rdfs:label "USA" ;
-    ex:sourceUrl "https://www.thearcticinstitute.org/trump-greenland-logic-chaos/"^^xsd:anyURI .
+    ex:sourceUrl "https://www.thearcticinstitute.org/trump-greenland-logic-chaos/"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/United_States> .
 
 <http://example.org/kg/place/vietnam> a schema1:Place ;
     rdfs:label "Vietnam" ;
-    ex:sourceUrl "https://www.thearcticinstitute.org/trump-greenland-logic-chaos/"^^xsd:anyURI .
+    ex:sourceUrl "https://www.thearcticinstitute.org/trump-greenland-logic-chaos/"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/Vietnam> .
 
 <http://example.org/kg/place/warsaw> a schema1:Place ;
     rdfs:label "Warsaw" ;
-    ex:sourceUrl "https://apnews.com/article/2b12bb104faaaafda2ed270febfb0522"^^xsd:anyURI .
+    ex:sourceUrl "https://apnews.com/article/2b12bb104faaaafda2ed270febfb0522"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/Warsaw> .
 
-ex:related_to rdfs:label "related to" .
+ex:related_to rdfs:label "related to" ;
+    owl:sameAs <http://dbpedia.org/resource/Xenophobia_and_racism_related_to_the_COVID-19_pandemic> .
 
-ex:study rdfs:label "study" .
+ex:study rdfs:label "study" ;
+    owl:sameAs <http://dbpedia.org/resource/Institute_for_Advanced_Study> .
 
-ex:support rdfs:label "support" .
+ex:support rdfs:label "support" ;
+    owl:sameAs <http://dbpedia.org/resource/Forward_(association_football)> .
 
 <http://example.org/kg/org/a_coalition_of_free_association> a schema1:Organization ;
     rdfs:label "a Coalition of Free Association" ;
-    ex:sourceUrl "https://english.elpais.com/international/2026-01-12/how-trump-can-take-greenland-the-easy-way-or-the-hard-way.html"^^xsd:anyURI .
+    ex:sourceUrl "https://english.elpais.com/international/2026-01-12/how-trump-can-take-greenland-the-easy-way-or-the-hard-way.html"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/Unification_Church> .
 
 <http://example.org/kg/org/alliance> a schema1:Organization ;
     rdfs:label "Alliance" ;
-    ex:sourceUrl "https://english.elpais.com/international/2026-01-10/a-trump-intervention-in-greenland-would-destroy-nato.html"^^xsd:anyURI .
+    ex:sourceUrl "https://english.elpais.com/international/2026-01-10/a-trump-intervention-in-greenland-would-destroy-nato.html"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/United_People's_Freedom_Alliance> .
 
 <http://example.org/kg/org/the_fridtjof_nansen_institute_senior> a schema1:Organization ;
     rdfs:label "the Fridtjof Nansen Institute & Senior" ;
-    ex:sourceUrl "https://www.thearcticinstitute.org/trump-greenland-logic-chaos/"^^xsd:anyURI .
+    ex:sourceUrl "https://www.thearcticinstitute.org/trump-greenland-logic-chaos/"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/United_States_Army> .
 
 <http://example.org/kg/person/donald_trump> a schema1:Person ;
     rdfs:label "Donald Trump" ;
@@ -770,11 +921,13 @@ ex:support rdfs:label "support" .
         "https://english.elpais.com/economy-and-business/2026-01-20/the-us-europe-standoff-reaches-davos-set-to-hold-a-critical-meeting-on-greenland.html"^^xsd:anyURI,
         "https://english.elpais.com/international/2026-01-10/a-trump-intervention-in-greenland-would-destroy-nato.html"^^xsd:anyURI,
         "https://english.elpais.com/international/2026-01-12/how-trump-can-take-greenland-the-easy-way-or-the-hard-way.html"^^xsd:anyURI,
-        "https://www.theguardian.com/world/2026/feb/14/denmark-us-powers-legal-action-greenland-washington-donald-trump-europe"^^xsd:anyURI .
+        "https://www.theguardian.com/world/2026/feb/14/denmark-us-powers-legal-action-greenland-washington-donald-trump-europe"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/Donald_Trump> .
 
 <http://example.org/kg/person/javier_milei> a schema1:Person ;
     rdfs:label "Javier Milei" ;
-    ex:sourceUrl "https://english.elpais.com/economy-and-business/2026-01-20/the-us-europe-standoff-reaches-davos-set-to-hold-a-critical-meeting-on-greenland.html"^^xsd:anyURI .
+    ex:sourceUrl "https://english.elpais.com/economy-and-business/2026-01-20/the-us-europe-standoff-reaches-davos-set-to-hold-a-critical-meeting-on-greenland.html"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/Javier_Milei> .
 
 <http://example.org/kg/person/mette_frederiksen> a schema1:Person ;
     rdfs:label "Mette Frederiksen" ;
@@ -782,43 +935,52 @@ ex:support rdfs:label "support" .
     ex:sourceUrl "https://apnews.com/article/2b12bb104faaaafda2ed270febfb0522"^^xsd:anyURI,
         "https://english.elpais.com/international/2026-01-10/a-trump-intervention-in-greenland-would-destroy-nato.html"^^xsd:anyURI,
         "https://www.thearcticinstitute.org/trump-greenland-logic-chaos/"^^xsd:anyURI,
-        "https://www.theguardian.com/world/2026/feb/14/denmark-us-powers-legal-action-greenland-washington-donald-trump-europe"^^xsd:anyURI .
+        "https://www.theguardian.com/world/2026/feb/14/denmark-us-powers-legal-action-greenland-washington-donald-trump-europe"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/Mette_Frederiksen> .
 
 <http://example.org/kg/person/putin> a schema1:Person ;
     rdfs:label "Putin" ;
-    ex:sourceUrl "https://www.thearcticinstitute.org/trump-greenland-logic-chaos/"^^xsd:anyURI .
+    ex:sourceUrl "https://www.thearcticinstitute.org/trump-greenland-logic-chaos/"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/Vladimir_Putin> .
 
 <http://example.org/kg/place/britain> a schema1:Place ;
     rdfs:label "Britain" ;
-    ex:sourceUrl "https://www.gov.uk/government/speeches/foreign-secretary-statement-to-the-house-on-greenland-and-wider-arctic-security"^^xsd:anyURI .
+    ex:sourceUrl "https://www.gov.uk/government/speeches/foreign-secretary-statement-to-the-house-on-greenland-and-wider-arctic-security"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/United_Kingdom> .
 
 <http://example.org/kg/place/cuba> a schema1:Place ;
     rdfs:label "Cuba" ;
-    ex:sourceUrl "https://www.thearcticinstitute.org/trump-greenland-logic-chaos/"^^xsd:anyURI .
+    ex:sourceUrl "https://www.thearcticinstitute.org/trump-greenland-logic-chaos/"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/Cuba> .
 
 <http://example.org/kg/place/finland> a schema1:Place ;
     rdfs:label "Finland" ;
     ex:related_to <http://example.org/kg/place/norway> ;
-    ex:sourceUrl "https://www.gov.uk/government/speeches/foreign-secretary-statement-to-the-house-on-greenland-and-wider-arctic-security"^^xsd:anyURI .
+    ex:sourceUrl "https://www.gov.uk/government/speeches/foreign-secretary-statement-to-the-house-on-greenland-and-wider-arctic-security"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/Finland> .
 
 <http://example.org/kg/place/iceland> a schema1:Place ;
     rdfs:label "Iceland" ;
     ex:sourceUrl "https://www.gov.uk/government/speeches/foreign-secretary-statement-to-the-house-on-greenland-and-wider-arctic-security"^^xsd:anyURI,
-        "https://www.thearcticinstitute.org/trump-greenland-logic-chaos/"^^xsd:anyURI .
+        "https://www.thearcticinstitute.org/trump-greenland-logic-chaos/"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/Iceland> .
 
 <http://example.org/kg/place/louisiana> a schema1:Place ;
     rdfs:label "Louisiana" ;
-    ex:sourceUrl "https://english.elpais.com/international/2026-01-12/how-trump-can-take-greenland-the-easy-way-or-the-hard-way.html"^^xsd:anyURI .
+    ex:sourceUrl "https://english.elpais.com/international/2026-01-12/how-trump-can-take-greenland-the-easy-way-or-the-hard-way.html"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/Louisiana> .
 
 <http://example.org/kg/place/northern_norway> a schema1:Place ;
     rdfs:label "Northern Norway" ;
-    ex:sourceUrl "https://www.gov.uk/government/speeches/foreign-secretary-statement-to-the-house-on-greenland-and-wider-arctic-security"^^xsd:anyURI .
+    ex:sourceUrl "https://www.gov.uk/government/speeches/foreign-secretary-statement-to-the-house-on-greenland-and-wider-arctic-security"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/Northern_Norway> .
 
 <http://example.org/kg/place/norway> a schema1:Place ;
     rdfs:label "Norway" ;
     ex:located_in <http://example.org/kg/place/greenland> ;
     ex:sourceUrl "https://www.gov.uk/government/speeches/foreign-secretary-statement-to-the-house-on-greenland-and-wider-arctic-security"^^xsd:anyURI,
-        "https://www.thearcticinstitute.org/trump-greenland-logic-chaos/"^^xsd:anyURI .
+        "https://www.thearcticinstitute.org/trump-greenland-logic-chaos/"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/Norway> .
 
 <http://example.org/kg/place/russia> a schema1:Place ;
     rdfs:label "Russia" ;
@@ -828,35 +990,41 @@ ex:support rdfs:label "support" .
     ex:sourceUrl "https://english.elpais.com/international/2026-01-10/a-trump-intervention-in-greenland-would-destroy-nato.html"^^xsd:anyURI,
         "https://english.elpais.com/international/2026-01-12/how-trump-can-take-greenland-the-easy-way-or-the-hard-way.html"^^xsd:anyURI,
         "https://www.gov.uk/government/speeches/foreign-secretary-statement-to-the-house-on-greenland-and-wider-arctic-security"^^xsd:anyURI,
-        "https://www.thearcticinstitute.org/trump-greenland-logic-chaos/"^^xsd:anyURI .
+        "https://www.thearcticinstitute.org/trump-greenland-logic-chaos/"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/Russia> .
 
 <http://example.org/kg/place/svalbard> a schema1:Place ;
     rdfs:label "Svalbard" ;
-    ex:sourceUrl "https://www.thearcticinstitute.org/trump-greenland-logic-chaos/"^^xsd:anyURI .
+    ex:sourceUrl "https://www.thearcticinstitute.org/trump-greenland-logic-chaos/"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/Svalbard> .
 
 <http://example.org/kg/place/the_united_kingdom> a schema1:Place ;
     rdfs:label "the United Kingdom" ;
-    ex:sourceUrl "https://www.gov.uk/government/speeches/foreign-secretary-statement-to-the-house-on-greenland-and-wider-arctic-security"^^xsd:anyURI .
+    ex:sourceUrl "https://www.gov.uk/government/speeches/foreign-secretary-statement-to-the-house-on-greenland-and-wider-arctic-security"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/United_Kingdom> .
 
 <http://example.org/kg/place/venezuela> a schema1:Place ;
     rdfs:label "Venezuela" ;
     ex:sourceUrl "https://apnews.com/article/2b12bb104faaaafda2ed270febfb0522"^^xsd:anyURI,
         "https://english.elpais.com/international/2026-01-10/a-trump-intervention-in-greenland-would-destroy-nato.html"^^xsd:anyURI,
         "https://english.elpais.com/international/2026-01-12/how-trump-can-take-greenland-the-easy-way-or-the-hard-way.html"^^xsd:anyURI,
-        "https://www.thearcticinstitute.org/trump-greenland-logic-chaos/"^^xsd:anyURI .
+        "https://www.thearcticinstitute.org/trump-greenland-logic-chaos/"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/Venezuela> .
 
 <http://example.org/kg/place/alaska> a schema1:Place ;
     rdfs:label "Alaska" ;
     ex:sourceUrl "https://english.elpais.com/international/2026-01-12/how-trump-can-take-greenland-the-easy-way-or-the-hard-way.html"^^xsd:anyURI,
         "https://www.thearcticinstitute.org/trump-greenland-logic-chaos/"^^xsd:anyURI ;
-    ex:study <http://example.org/kg/place/louisiana> .
+    ex:study <http://example.org/kg/place/louisiana> ;
+    owl:sameAs <http://dbpedia.org/resource/Alaska> .
 
 <http://example.org/kg/place/the_kingdom_of_denmark> a schema1:Place ;
     rdfs:label "the Kingdom of Denmark" ;
     ex:sourceUrl "https://apnews.com/article/2b12bb104faaaafda2ed270febfb0522"^^xsd:anyURI,
         "https://english.elpais.com/international/2026-01-12/how-trump-can-take-greenland-the-easy-way-or-the-hard-way.html"^^xsd:anyURI,
         "https://www.gov.uk/government/speeches/foreign-secretary-statement-to-the-house-on-greenland-and-wider-arctic-security"^^xsd:anyURI,
-        "https://www.thearcticinstitute.org/trump-greenland-logic-chaos/"^^xsd:anyURI .
+        "https://www.thearcticinstitute.org/trump-greenland-logic-chaos/"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/Greenland> .
 
 <http://example.org/kg/place/u_s> a schema1:Place ;
     rdfs:label "U.S." ;
@@ -871,7 +1039,8 @@ ex:support rdfs:label "support" .
         "https://english.elpais.com/economy-and-business/2026-01-20/the-us-europe-standoff-reaches-davos-set-to-hold-a-critical-meeting-on-greenland.html"^^xsd:anyURI,
         "https://english.elpais.com/international/2026-01-10/a-trump-intervention-in-greenland-would-destroy-nato.html"^^xsd:anyURI,
         "https://english.elpais.com/international/2026-01-12/how-trump-can-take-greenland-the-easy-way-or-the-hard-way.html"^^xsd:anyURI ;
-    ex:support <http://example.org/kg/org/nato> .
+    ex:support <http://example.org/kg/org/nato> ;
+    owl:sameAs <http://dbpedia.org/resource/United_States> .
 
 <http://example.org/kg/person/trump> a schema1:Person ;
     rdfs:label "Trump" ;
@@ -888,7 +1057,8 @@ ex:support rdfs:label "support" .
         "https://english.elpais.com/international/2026-01-12/how-trump-can-take-greenland-the-easy-way-or-the-hard-way.html"^^xsd:anyURI,
         "https://www.gov.uk/government/speeches/foreign-secretary-statement-to-the-house-on-greenland-and-wider-arctic-security"^^xsd:anyURI,
         "https://www.thearcticinstitute.org/trump-greenland-logic-chaos/"^^xsd:anyURI,
-        "https://www.theguardian.com/world/2026/feb/14/denmark-us-powers-legal-action-greenland-washington-donald-trump-europe"^^xsd:anyURI .
+        "https://www.theguardian.com/world/2026/feb/14/denmark-us-powers-legal-action-greenland-washington-donald-trump-europe"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/Donald_Trump> .
 
 <http://example.org/kg/place/washington> a schema1:Place ;
     rdfs:label "Washington" ;
@@ -896,7 +1066,8 @@ ex:support rdfs:label "support" .
         "https://english.elpais.com/international/2026-01-10/a-trump-intervention-in-greenland-would-destroy-nato.html"^^xsd:anyURI,
         "https://english.elpais.com/international/2026-01-12/how-trump-can-take-greenland-the-easy-way-or-the-hard-way.html"^^xsd:anyURI,
         "https://www.thearcticinstitute.org/trump-greenland-logic-chaos/"^^xsd:anyURI,
-        "https://www.theguardian.com/world/2026/feb/14/denmark-us-powers-legal-action-greenland-washington-donald-trump-europe"^^xsd:anyURI .
+        "https://www.theguardian.com/world/2026/feb/14/denmark-us-powers-legal-action-greenland-washington-donald-trump-europe"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/Washington,_D.C.> .
 
 <http://example.org/kg/place/the_united_states> a schema1:Place ;
     rdfs:label "The United States",
@@ -910,7 +1081,8 @@ ex:support rdfs:label "support" .
         "https://english.elpais.com/international/2026-01-10/a-trump-intervention-in-greenland-would-destroy-nato.html"^^xsd:anyURI,
         "https://english.elpais.com/international/2026-01-12/how-trump-can-take-greenland-the-easy-way-or-the-hard-way.html"^^xsd:anyURI,
         "https://www.gov.uk/government/speeches/foreign-secretary-statement-to-the-house-on-greenland-and-wider-arctic-security"^^xsd:anyURI,
-        "https://www.thearcticinstitute.org/trump-greenland-logic-chaos/"^^xsd:anyURI .
+        "https://www.thearcticinstitute.org/trump-greenland-logic-chaos/"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/United_States> .
 
 <http://example.org/kg/place/denmark> a schema1:Place ;
     rdfs:label "Denmark" ;
@@ -926,7 +1098,8 @@ ex:support rdfs:label "support" .
         "https://english.elpais.com/international/2026-01-12/how-trump-can-take-greenland-the-easy-way-or-the-hard-way.html"^^xsd:anyURI,
         "https://www.gov.uk/government/speeches/foreign-secretary-statement-to-the-house-on-greenland-and-wider-arctic-security"^^xsd:anyURI,
         "https://www.thearcticinstitute.org/trump-greenland-logic-chaos/"^^xsd:anyURI,
-        "https://www.theguardian.com/world/2026/feb/14/denmark-us-powers-legal-action-greenland-washington-donald-trump-europe"^^xsd:anyURI .
+        "https://www.theguardian.com/world/2026/feb/14/denmark-us-powers-legal-action-greenland-washington-donald-trump-europe"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/Denmark> .
 
 <http://example.org/kg/org/nato> a schema1:Organization ;
     rdfs:label "NATO" ;
@@ -936,7 +1109,8 @@ ex:support rdfs:label "support" .
         "https://english.elpais.com/international/2026-01-10/a-trump-intervention-in-greenland-would-destroy-nato.html"^^xsd:anyURI,
         "https://english.elpais.com/international/2026-01-12/how-trump-can-take-greenland-the-easy-way-or-the-hard-way.html"^^xsd:anyURI,
         "https://www.gov.uk/government/speeches/foreign-secretary-statement-to-the-house-on-greenland-and-wider-arctic-security"^^xsd:anyURI,
-        "https://www.thearcticinstitute.org/trump-greenland-logic-chaos/"^^xsd:anyURI .
+        "https://www.thearcticinstitute.org/trump-greenland-logic-chaos/"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/NATO> .
 
 <http://example.org/kg/place/greenland> a schema1:Place ;
     rdfs:label "Greenland" ;
@@ -951,5 +1125,6 @@ ex:support rdfs:label "support" .
         "https://english.elpais.com/international/2026-01-12/how-trump-can-take-greenland-the-easy-way-or-the-hard-way.html"^^xsd:anyURI,
         "https://www.gov.uk/government/speeches/foreign-secretary-statement-to-the-house-on-greenland-and-wider-arctic-security"^^xsd:anyURI,
         "https://www.thearcticinstitute.org/trump-greenland-logic-chaos/"^^xsd:anyURI,
-        "https://www.theguardian.com/world/2026/feb/14/denmark-us-powers-legal-action-greenland-washington-donald-trump-europe"^^xsd:anyURI .
+        "https://www.theguardian.com/world/2026/feb/14/denmark-us-powers-legal-action-greenland-washington-donald-trump-europe"^^xsd:anyURI ;
+    owl:sameAs <http://dbpedia.org/resource/Greenland> .
 

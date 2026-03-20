@@ -1,0 +1,97 @@
+{
+  "total_triples": 86682,
+  "unique_subjects": 372,
+  "unique_predicates": 238,
+  "unique_uri_objects": 59725,
+  "entity_types": {
+    "Person": 53,
+    "Organization": 62,
+    "Place": 71
+  },
+  "owl_sameAs_links": 199,
+  "owl_equivalentProperty_links": 0,
+  "top_10_predicates": [
+    {
+      "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+      "count": 75898
+    },
+    {
+      "predicate": "http://dbpedia.org/ontology/description",
+      "count": 5842
+    },
+    {
+      "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+      "count": 1558
+    },
+    {
+      "predicate": "http://dbpedia.org/ontology/thumbnail",
+      "count": 135
+    },
+    {
+      "predicate": "http://dbpedia.org/ontology/termPeriod",
+      "count": 115
+    },
+    {
+      "predicate": "http://dbpedia.org/ontology/battle",
+      "count": 95
+    },
+    {
+      "predicate": "http://dbpedia.org/ontology/event",
+      "count": 82
+    },
+    {
+      "predicate": "http://dbpedia.org/ontology/language",
+      "count": 80
+    },
+    {
+      "predicate": "http://dbpedia.org/ontology/subdivision",
+      "count": 75
+    },
+    {
+      "predicate": "http://dbpedia.org/ontology/ethnicGroup",
+      "count": 53
+    }
+  ],
+  "top_10_entities_by_degree": [
+    {
+      "entity": "http://dbpedia.org/resource/Russia",
+      "outgoing_triples": 1000
+    },
+    {
+      "entity": "http://dbpedia.org/resource/List_of_minor_planet_discoverers",
+      "outgoing_triples": 1000
+    },
+    {
+      "entity": "http://dbpedia.org/resource/London",
+      "outgoing_triples": 1000
+    },
+    {
+      "entity": "http://dbpedia.org/resource/China",
+      "outgoing_triples": 1000
+    },
+    {
+      "entity": "http://dbpedia.org/resource/United_States",
+      "outgoing_triples": 1000
+    },
+    {
+      "entity": "http://dbpedia.org/resource/United_Kingdom",
+      "outgoing_triples": 1000
+    },
+    {
+      "entity": "http://dbpedia.org/resource/Sweden",
+      "outgoing_triples": 1000
+    },
+    {
+      "entity": "http://dbpedia.org/resource/Netherlands",
+      "outgoing_triples": 1000
+    },
+    {
+      "entity": "http://dbpedia.org/resource/Greece",
+      "outgoing_triples": 1000
+    },
+    {
+      "entity": "http://dbpedia.org/resource/Norway",
+      "outgoing_triples": 1000
+    }
+  ]
+}

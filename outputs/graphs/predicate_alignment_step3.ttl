@@ -1,0 +1,27 @@
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://example.org/kg/announce> owl:equivalentProperty <http://dbpedia.org/ontology/related> .
+
+<http://example.org/kg/attack> owl:equivalentProperty <http://dbpedia.org/ontology/isPartOfMilitaryConflict> .
+
+<http://example.org/kg/claim> owl:equivalentProperty <http://dbpedia.org/ontology/related> .
+
+<http://example.org/kg/defend> owl:equivalentProperty <http://dbpedia.org/ontology/militaryBranch> .
+
+<http://example.org/kg/deploy> owl:equivalentProperty <http://dbpedia.org/ontology/militaryBranch> .
+
+<http://example.org/kg/intervene_in> owl:equivalentProperty <http://dbpedia.org/ontology/isPartOfMilitaryConflict> .
+
+<http://example.org/kg/located_in> owl:equivalentProperty <http://dbpedia.org/ontology/location> .
+
+<http://example.org/kg/meet> owl:equivalentProperty <http://schema.org/knows> .
+
+<http://example.org/kg/operate> owl:equivalentProperty <http://dbpedia.org/ontology/operator> .
+
+<http://example.org/kg/oppose> owl:equivalentProperty <http://dbpedia.org/ontology/opponent> .
+
+<http://example.org/kg/related_to> owl:equivalentProperty skos:related .
+
+<http://example.org/kg/support> owl:equivalentProperty <http://dbpedia.org/ontology/related> .
+
