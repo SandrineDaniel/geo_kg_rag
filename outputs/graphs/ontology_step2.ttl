@@ -1,0 +1,13 @@
+@prefix ex: <http://example.org/kg/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema1: <http://schema.org/> .
+
+ex:LocalOrganization a rdfs:Class ;
+    rdfs:subClassOf schema1:Organization .
+
+ex:LocalPerson a rdfs:Class ;
+    rdfs:subClassOf schema1:Person .
+
+ex:LocalPlace a rdfs:Class ;
+    rdfs:subClassOf schema1:Place .
+

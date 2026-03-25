@@ -1,3 +1,22 @@
+"""
+crawling.py:
+===================
+Web crawling and content extraction module.
+
+Uses Trafilatura to fetch and clean web pages, extracting only the main
+article content (removes menus, ads, footers). Results are stored in JSONL
+format, preserving the URL-to-text mapping for downstream NER and KG building.
+
+Used by:
+  - scripts/run_crawling.py
+
+Functions:
+  - is_useful()           : filters out pages with fewer than 500 words
+  - extract_main_content(): fetches a URL and extracts clean text
+  - save_to_jsonl()       : appends a record to the JSONL output file
+  - process_url()         : full pipeline for a single URL
+"""
+
 import trafilatura
 import json
 
@@ -34,7 +53,7 @@ def process_url(url):
     text = extract_main_content(url)
 
     if not is_useful(text):
-        print(f"⛔ Ignored: {url}")
+        print(f"!!!! Ignored: {url}")
         return
 
     save_to_jsonl(url, text)
