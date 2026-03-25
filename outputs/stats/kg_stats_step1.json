@@ -1,0 +1,97 @@
+{
+  "total_triples": 14192,
+  "unique_subjects": 4071,
+  "unique_predicates": 17,
+  "unique_uri_objects": 705,
+  "entity_types": {
+    "Person": 2077,
+    "Organization": 1369,
+    "Place": 612
+  },
+  "owl_sameAs_links": 22,
+  "owl_equivalentProperty_links": 0,
+  "top_10_predicates": [
+    {
+      "predicate": "http://example.org/kg/related_to",
+      "count": 860
+    },
+    {
+      "predicate": "http://example.org/kg/deploy",
+      "count": 13
+    },
+    {
+      "predicate": "http://example.org/kg/support",
+      "count": 7
+    },
+    {
+      "predicate": "http://example.org/kg/oppose",
+      "count": 6
+    },
+    {
+      "predicate": "http://example.org/kg/claim",
+      "count": 6
+    },
+    {
+      "predicate": "http://example.org/kg/announce",
+      "count": 4
+    },
+    {
+      "predicate": "http://example.org/kg/meet",
+      "count": 4
+    },
+    {
+      "predicate": "http://example.org/kg/attack",
+      "count": 2
+    },
+    {
+      "predicate": "http://example.org/kg/located_in",
+      "count": 2
+    },
+    {
+      "predicate": "http://example.org/kg/study",
+      "count": 1
+    }
+  ],
+  "top_10_entities_by_degree": [
+    {
+      "entity": "http://example.org/kg/org/ministry_of_foreign_affairs",
+      "outgoing_triples": 46
+    },
+    {
+      "entity": "http://example.org/kg/place/denmark",
+      "outgoing_triples": 28
+    },
+    {
+      "entity": "http://example.org/kg/place/greenland",
+      "outgoing_triples": 20
+    },
+    {
+      "entity": "http://example.org/kg/org/nato",
+      "outgoing_triples": 16
+    },
+    {
+      "entity": "http://example.org/kg/org/isbn",
+      "outgoing_triples": 8
+    },
+    {
+      "entity": "http://example.org/kg/place/u_s",
+      "outgoing_triples": 8
+    },
+    {
+      "entity": "http://example.org/kg/person/trump",
+      "outgoing_triples": 8
+    },
+    {
+      "entity": "http://example.org/kg/person/rutte",
+      "outgoing_triples": 8
+    },
+    {
+      "entity": "http://example.org/kg/place/canada",
+      "outgoing_triples": 7
+    },
+    {
+      "entity": "http://example.org/kg/person/mark_rutte",
+      "outgoing_triples": 6
+    }
+  ]
+}

@@ -24,3 +24,4 @@ if __name__ == "__main__":
         input_ttl="outputs/graphs/mykg_step4_expanded.ttl",
         output_json="outputs/stats/kg_stats.json",
     )
+    run_stats(input_ttl="outputs/graphs/mykg_step1_initial.ttl", output_json="outputs/stats/kg_stats_step1.json")

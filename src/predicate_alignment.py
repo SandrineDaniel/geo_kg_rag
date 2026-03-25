@@ -1,17 +1,17 @@
 """
-predicate_alignment.py
-======================
+predicate_alignment.py:
+===================
 Aligns local KG predicates to standard ontology URIs (DBpedia Ontology, Schema.org).
  
-Strategy:
-  1. PRIMARY - Manual mapping: each local predicate is mapped to a well-known
+Our strategies:
+  1. PRIMARY: Manual mapping: each local predicate is mapped to a well-known
      standard URI based on domain knowledge. This guarantees at least one
      alignment per predicate, regardless of DBpedia coverage.
-  2. FALLBACK - DBpedia SPARQL: for predicates not in the manual map, we query
+  2. FALLBACK: DBpedia SPARQL: for predicates not in the manual map, we query
      DBpedia to find predicates that co-occur between linked entity pairs.
      Only candidates with enough hits (>= threshold_hits) are kept.
  
-Why manual mapping is necessary:
+Why our manual map is essential?
   Our predicates (oppose, deploy, attack...) are domain-specific geopolitical
   relations extracted from news articles. DBpedia is encyclopedic and rarely
   contains direct triples between two entities with these exact verbs.
@@ -23,18 +23,16 @@ import os
 import csv
 import time
 from collections import Counter, defaultdict
- 
 import requests
 from rdflib import Graph, URIRef
 from rdflib.namespace import RDF, RDFS, OWL
- 
 from src.namespaces import EX
  
-# ── DBpedia SPARQL endpoint ──────────────────────────────────────────────────
+#DBpedia SPARQL endpoint 
 DBP_ENDPOINT = "http://dbpedia.org/sparql"
 USER_AGENT = {"User-Agent": "KB-Lab/1.0"}
  
-# ── Predicates to skip (metadata / structural triples) ───────────────────────
+#Predicates to skip (metadata / structural triples)
 IGNORE_PREDICATES = {
     str(RDF.type),
     str(RDFS.label),
@@ -42,10 +40,9 @@ IGNORE_PREDICATES = {
     str(EX.sourceUrl),
 }
  
-# ── Manual alignment table ───────────────────────────────────────────────────
+# Manual alignment table
 # Maps each local predicate name to a list of candidate standard URIs.
 # Multiple candidates are listed in decreasing preference order;
-# the first one will be used as the primary owl:equivalentProperty alignment.
 # Sources: DBpedia Ontology (dbo:), Schema.org (schema:), SKOS (skos:)
 MANUAL_ALIGNMENT = {
     "oppose": [
@@ -220,12 +217,12 @@ def run_predicate_alignment(
     proposed.bind("rdfs", RDFS)
  
     alignments_made = 0
-    cache = {}  # cache (s_ext, o_ext) -> DBpedia predicates to avoid redundant queries
+    cache = {}  # cache (s_ext, o_ext) to DBpedia predicates to avoid redundant queries
  
     for p in top_preds:
         local_name = predicate_local_name(p)
  
-        # ── PRIMARY: manual mapping ──────────────────────────────────────────
+        #PRIMARY: manual mapping
         if local_name in MANUAL_ALIGNMENT:
             candidates = MANUAL_ALIGNMENT[local_name]
  
@@ -248,8 +245,8 @@ def run_predicate_alignment(
             print(f"[MANUAL]   {local_name} → {primary_uri}")
             continue
  
-        # ── FALLBACK: DBpedia SPARQL ─────────────────────────────────────────
-        # Collect entity pairs where both endpoints have a sameAs link
+        #FALLBACK: DBpedia SPARQL 
+        #Collect entity pairs where both endpoints have a sameAs link
         examples = []
         for s, pp, o in rel_triples:
             if pp != p:
@@ -295,7 +292,7 @@ def run_predicate_alignment(
             else:
                 print(f"[NO MATCH] {local_name} — best hits={best_hits} < threshold={threshold_hits}")
  
-    # ── Save outputs ─────────────────────────────────────────────────────────
+    #Save outputs 
     with open(out_csv, "w", newline="", encoding="utf-8") as f:
         w = csv.writer(f)
         w.writerow([

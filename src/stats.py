@@ -1,10 +1,7 @@
 """
-stats.py
-========
+stats.py:
+===================
 Computes and saves descriptive statistics about the Knowledge Graph.
-
-These statistics are required in the final report (section "KB statistics")
-and are worth 0.5 pts in the grading rubric.
 
 Metrics computed:
   - Total number of triples

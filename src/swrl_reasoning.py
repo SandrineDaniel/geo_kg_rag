@@ -1,9 +1,9 @@
 """
-swrl_reasoning.py
-=================
+swrl_reasoning.py:
+===================
 Applies SWRL reasoning rules using OWLReady2.
 
-PART 1 - family.owl
+PART 1 - family.owl lab exercise
     Rule: Person(?p) AND age(?p, ?a) AND swrlb:greaterThan(?a, 60) -> OldPerson(?p)
     Expected: Peter (age=70) and Marie (age=69) become OldPerson.
 
@@ -30,10 +30,6 @@ def run_family_swrl(owl_path: str):
     print("PART 1 - SWRL on family.owl")
     print("=" * 55)
 
-    # OWLReady2 Windows fix:
-    # Instead of a file URI, we add the file's directory to owlready2.onto_path
-    # and load by the ontology IRI declared inside the .owl file.
-    # This is the officially recommended approach for local files.
     import owlready2
 
     abs_path = os.path.abspath(owl_path)
@@ -43,13 +39,13 @@ def run_family_swrl(owl_path: str):
     if owl_dir not in owlready2.onto_path:
         owlready2.onto_path.append(owl_dir)
 
-    # Load using the full absolute path directly (works on Windows)
+    # Load using the full absolute path directly
     onto = get_ontology(abs_path).load()
 
     print(f"Ontology loaded from: {abs_path}")
 
     with onto:
-        # Create OldPerson class dynamically — not in original family.owl
+        # Create OldPerson class dynamically, not in original family.owl
         OldPerson = types.new_class("OldPerson", (onto.Person,))
         OldPerson.comment = ["Inferred class: persons older than 60"]
 

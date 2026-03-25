@@ -1,201 +1,291 @@
-Private Entity (label),External URI,Confidence,RawScore
-Palantir,http://dbpedia.org/resource/Palantir_Technologies,0.997,3018.334
-Parello-Plesner,http://dbpedia.org/resource/Spiral_Starecase,0.814,43.668
-Struwe,http://dbpedia.org/resource/Michael_Struwe,0.992,1244.001
-Greenlandic,http://dbpedia.org/resource/Greenlandic_language,0.998,5398.719
-announce,http://dbpedia.org/resource/Knock-and-announce,0.994,1784.176
-attack,http://dbpedia.org/resource/Attack_on_Pearl_Harbor,0.998,5714.548
-claim,http://dbpedia.org/resource/Marie_Byrd_Land,0.998,6535.446
-defend,http://dbpedia.org/resource/Defender_(association_football),1.000,20287.479
-deploy,http://dbpedia.org/resource/British_Army,0.992,1190.630
-intervene in,http://dbpedia.org/resource/Intervention_(law),0.994,1572.990
-located in,http://dbpedia.org/resource/Mansehra_District,0.996,2658.142
-meet,http://dbpedia.org/resource/Meet_Bros,0.997,3774.658
-operate,http://dbpedia.org/resource/Build–operate–transfer,0.997,3425.711
-oppose,http://dbpedia.org/resource/Opole_Voivodeship,0.996,2522.368
-Aalborg,http://dbpedia.org/resource/Aalborg,0.999,10680.061
-Aftenposten,http://dbpedia.org/resource/Aftenposten,0.997,3429.419
-Chatham House,http://dbpedia.org/resource/Chatham_House,0.997,3772.163
-CNN,http://dbpedia.org/resource/CNN,0.999,14872.685
-Congress,http://dbpedia.org/resource/Indian_National_Congress,1.000,35002.336
-Dazio,http://dbpedia.org/resource/FC_Dacia_Chișinău,0.992,1180.030
-Delta Force,http://dbpedia.org/resource/Delta_Force,0.998,5413.337
-Donroe,http://dbpedia.org/resource/Gmina_Dobroń,0.986,699.634
-EL PAÍS,http://dbpedia.org/resource/El_País,0.998,4728.046
-Friends of Europe,http://dbpedia.org/resource/United_States,0.996,2734.351
-Geopol Strategi,http://dbpedia.org/resource/List_of_E._Schweizerbart_serials,0.978,438.553
-Greenlanders,http://dbpedia.org/resource/Saga_of_the_Greenlanders,0.997,3397.539
-Guardian,http://dbpedia.org/resource/The_Guardian,0.999,7265.293
-IE University,http://dbpedia.org/resource/Jerusalem,0.995,2155.569
-International Security,http://dbpedia.org/resource/Computer_security,0.998,4756.872
-Joint Expeditionary Force,http://dbpedia.org/resource/Arthropod,0.997,2885.809
-Leyen (European Commission,http://dbpedia.org/resource/Central_European_Summer_Time,0.995,2054.428
-Lunna House Defence Agreement,http://dbpedia.org/resource/Defenceman,0.979,461.846
-Messmer,http://dbpedia.org/resource/Pierre_Messmer,0.997,3149.047
-Microsoft,http://dbpedia.org/resource/Microsoft_Windows,1.000,58229.203
-Muñiz of IE University,http://dbpedia.org/resource/United_States,0.984,620.313
-NATO Alliance,http://dbpedia.org/resource/NATO,0.998,6063.287
-New York Post,http://dbpedia.org/resource/New_York_University,0.999,12337.298
-Nord University,http://dbpedia.org/resource/University_of_North_Carolina_at_Chapel_Hill,0.998,5879.975
-Nvidia,http://dbpedia.org/resource/Nvidia,0.999,8148.251
-Pentagon,http://dbpedia.org/resource/The_Pentagon,0.999,7416.484
-Pituffik,http://dbpedia.org/resource/Pituffik,0.991,1054.018
-Rahbek-Clemmensen,http://dbpedia.org/resource/Clemmensen_reduction,0.859,60.779
-Shea,http://dbpedia.org/resource/John_Shea,0.997,3407.593
-Shea of Friends for Europe,http://dbpedia.org/resource/United_States,0.996,2734.351
-Swiss Alpine,http://dbpedia.org/resource/European_Professional_Basketball_League,0.994,1743.260
-the Alliance of Democracies Foundation,http://dbpedia.org/resource/United_States,0.991,1120.611
-The Arctic Institute,http://dbpedia.org/resource/Arctic_Institute_of_North_America,0.994,1807.311
-the Atlantic Alliance,http://dbpedia.org/resource/NATO,0.998,5436.357
-the Danish Government,http://dbpedia.org/resource/Prime_Minister_of_Denmark,0.989,910.048
-The Danish Institute for Human Rights,http://dbpedia.org/resource/Animal,0.997,3128.263
-the Danish Institute for Human Rights,http://dbpedia.org/resource/Animal,0.997,3128.263
-the Danish Ministry of Defense,http://dbpedia.org/resource/United_States,0.991,1120.611
-the Danish West Indies,http://dbpedia.org/resource/Danish_West_Indies,0.998,6095.483
-the European Union,http://dbpedia.org/resource/Soviet_Union,1.000,37926.125
-the High North Center,"http://dbpedia.org/resource/Phoenix,_Arizona",0.999,7447.403
-the New York Post,http://dbpedia.org/resource/New_York_University,0.999,16077.075
-The New York Times,http://dbpedia.org/resource/The_New_York_Times,0.999,17835.486
-the Royal Danish Defence College,http://dbpedia.org/resource/Denmark,0.986,680.932
-the Royal Marines,http://dbpedia.org/resource/Royal_Marines,0.999,9879.160
-The State Department,http://dbpedia.org/resource/Arizona,1.000,21654.348
-the U.S. Armed Forces,http://dbpedia.org/resource/United_States_Armed_Forces,0.999,8714.758
-The U.S. Department of Defense,http://dbpedia.org/resource/United_States_Department_of_Defense,0.999,13412.880
-the US Space Force,http://dbpedia.org/resource/United_States_Air_Force_Academy,0.998,5721.030
-the USA House,http://dbpedia.org/resource/Minneapolis,0.999,6972.010
-the Voxmeter institute,http://dbpedia.org/resource/United_States,0.980,500.298
-The Wall Street Journal,http://dbpedia.org/resource/The_Wall_Street_Journal,0.999,11352.731
-The White House,http://dbpedia.org/resource/Chicago_White_Sox,0.999,9397.047
-the White House,http://dbpedia.org/resource/Chicago_White_Sox,0.999,9397.047
-the White House’s,http://dbpedia.org/resource/The_Beatles_(album),0.996,2812.133
-U.S. Treasury,http://dbpedia.org/resource/United_States_Treasury_security,0.998,4840.025
-White House,http://dbpedia.org/resource/White,0.999,12092.722
-Abbas Aragchi,http://dbpedia.org/resource/Abbas_Araghchi,0.996,2666.266
-Abdel Fattah al-Sisi,http://dbpedia.org/resource/Abdel_Fattah_el-Sisi,0.999,13575.279
-Ahmed al-Sharaa,http://dbpedia.org/resource/List_of_Yemeni_detainees_at_Guantanamo_Bay,0.998,6371.146
-Alex Karp,http://dbpedia.org/resource/Alex_Karp,0.994,1622.329
-Andreas Østhagen,http://dbpedia.org/resource/Grand_Theft_Auto:_San_Andreas,0.937,148.039
-Biden,http://dbpedia.org/resource/Joe_Biden,0.999,10194.495
-Emmanuel Macron,http://dbpedia.org/resource/Emmanuel_Macron,0.999,15046.101
-Friedrich Merz,http://dbpedia.org/resource/Friedrich_Merz,0.993,1351.803
-Giorgia Meloni,http://dbpedia.org/resource/Giorgia_Meloni,0.998,4035.839
-Harry Truman,http://dbpedia.org/resource/Harry_S._Truman,1.000,21225.803
-J.D. Vance,http://dbpedia.org/resource/J._D._Vance,0.995,1969.856
-James Monroe,http://dbpedia.org/resource/James_Monroe,0.999,9721.677
-Jamie Shea,http://dbpedia.org/resource/Jamie_Shea,0.996,2524.978
-Jeff Landry,http://dbpedia.org/resource/Jeff_Landry,0.996,2595.883
-Jens Frederik Nielsen,http://dbpedia.org/resource/List_of_minor_planet_discoverers,0.993,1383.350
-Jens-Frederik Nielsen,http://dbpedia.org/resource/List_of_minor_planet_discoverers,0.993,1383.350
-Jensen Huang,http://dbpedia.org/resource/Jensen_Huang,0.995,2017.101
-Jesper Møller Sørensen,http://dbpedia.org/resource/In_Flames,0.927,126.427
-Jon Rahbek-Clemmensen,http://dbpedia.org/resource/Lil_Jon,0.954,209.731
-Jonas Parello-Plesner,http://dbpedia.org/resource/Jonas_Brothers,0.933,138.346
-Katie Miller,http://dbpedia.org/resource/Kate_Miller-Heidke,0.997,3512.577
-Lars Bangert Struwe,http://dbpedia.org/resource/Norway_national_football_team,0.968,299.894
-Lars Rasmussen,http://dbpedia.org/resource/Lars_Løkke_Rasmussen,0.999,10348.575
-Lifeng,http://dbpedia.org/resource/Zhang_Lifeng,0.990,984.006
-Manuel Muñiz,http://dbpedia.org/resource/Manu_Fernández,0.993,1380.777
-Marco Rubio,http://dbpedia.org/resource/Marco_Rubio,0.998,6561.754
-Marion Messmer,http://dbpedia.org/resource/Indianapolis,0.975,394.405
-Mark Carney,http://dbpedia.org/resource/Mark_Carney,0.998,5364.830
-Mark Rutte,http://dbpedia.org/resource/Mark_Rutte,0.999,16704.924
-Nicolás Maduro,http://dbpedia.org/resource/Nicolás_Maduro,0.999,12428.301
-Nigel Farage,http://dbpedia.org/resource/Nigel_Farage,0.999,14144.039
-Peter Thiel,http://dbpedia.org/resource/Peter_Thiel,0.998,5492.270
-Peter Vedel Kessing,http://dbpedia.org/resource/Norway,0.988,815.499
-Prabowo Subianto,http://dbpedia.org/resource/Prabowo_Subianto,0.998,5795.216
-Satya Nadella,http://dbpedia.org/resource/Satya_Nadella,0.998,4453.270
-Scavenius,http://dbpedia.org/resource/Jacob_Brønnum_Scavenius_Estrup,0.997,3169.874
-Scott Bessent,http://dbpedia.org/resource/Scott_Bessent,0.987,772.182
-Stephen Miller,http://dbpedia.org/resource/Stephen_Miller_(political_advisor),0.997,3137.755
-Theresa Scavenius,http://dbpedia.org/resource/Theresa_Scavenius,0.988,792.805
-Truman,http://dbpedia.org/resource/Harry_S._Truman,0.999,12824.795
-Trump & Greenland,http://dbpedia.org/resource/Denmark,0.987,741.324
-Ulrik Pram Gad,http://dbpedia.org/resource/List_of_minor_planet_discoverers,0.987,740.833
-Ursula von der,http://dbpedia.org/resource/Ursula_von_der_Leyen,0.999,9305.384
-Vladimir Putin,http://dbpedia.org/resource/Vladimir_Putin,1.000,24229.986
-Volodymyr Zelenskiy,http://dbpedia.org/resource/Volodymyr_Zelenskyy,0.999,7503.360
-America,http://dbpedia.org/resource/United_States,1.000,96252.080
-Ankara,http://dbpedia.org/resource/Ankara,1.000,26068.010
-Argentina,http://dbpedia.org/resource/Argentina,1.000,82456.445
-Beijing,http://dbpedia.org/resource/Beijing,1.000,36373.902
-Berlin,http://dbpedia.org/resource/Berlin,1.000,45580.380
-Brussels,http://dbpedia.org/resource/Brussels,1.000,34302.582
-Canada,http://dbpedia.org/resource/Canada,1.000,111011.375
-Caracas,http://dbpedia.org/resource/Caracas,1.000,31837.600
-China,http://dbpedia.org/resource/China,1.000,68005.460
-COPENHAGEN,http://dbpedia.org/resource/Copenhagen,1.000,43038.100
-Copenhagen,http://dbpedia.org/resource/Copenhagen,1.000,43038.100
-Córdoba,http://dbpedia.org/resource/Córdoba_CF,1.000,21774.729
-Crimea,http://dbpedia.org/resource/Crimea,0.999,14121.445
-Cyprus,http://dbpedia.org/resource/Cyprus,1.000,32904.560
-D.C.,"http://dbpedia.org/resource/Washington,_D.C.",1.000,47084.590
-Egypt,http://dbpedia.org/resource/Egypt,1.000,46198.234
-Estonia,http://dbpedia.org/resource/Estonia,1.000,69885.750
-Florida,http://dbpedia.org/resource/Florida,1.000,58155.010
-France,http://dbpedia.org/resource/France,1.000,146599.700
-Germany,http://dbpedia.org/resource/Germany,1.000,97120.484
-Greece,http://dbpedia.org/resource/Greece,1.000,54819.367
-Helsinki,http://dbpedia.org/resource/Helsinki,1.000,40059.793
-India,http://dbpedia.org/resource/India,1.000,163772.230
-Indonesia,http://dbpedia.org/resource/Indonesia,1.000,66817.940
-Iran,http://dbpedia.org/resource/Iran,1.000,171986.500
-Karup,http://dbpedia.org/resource/Västra_Karup,0.995,1848.400
-Kyiv,http://dbpedia.org/resource/FC_Dynamo_Kyiv,1.000,27046.543
-London,http://dbpedia.org/resource/London,1.000,91378.070
-Micronesia,http://dbpedia.org/resource/Federated_States_of_Micronesia,0.999,9124.009
-Moldova,http://dbpedia.org/resource/Moldova,1.000,37477.363
-Mongolia,http://dbpedia.org/resource/Mongolia,1.000,27393.111
-Napoleonic France,http://dbpedia.org/resource/Peninsular_War,0.998,5381.760
-Netherlands,http://dbpedia.org/resource/Netherlands,1.000,95948.520
-Nuuk,http://dbpedia.org/resource/Nuuk,0.999,6853.595
-Panama,http://dbpedia.org/resource/Panama,1.000,32545.893
-Poland,http://dbpedia.org/resource/Poland,1.000,174283.050
-Spain,http://dbpedia.org/resource/Spain,1.000,87864.170
-Sweden,http://dbpedia.org/resource/Sweden,1.000,83337.120
-Syria,http://dbpedia.org/resource/Syria,1.000,47056.824
-Taiwan,http://dbpedia.org/resource/Taiwan,1.000,45683.508
-the Federated States of,http://dbpedia.org/resource/Socialist_Federal_Republic_of_Yugoslavia,1.000,24632.033
-the Marshall Islands,http://dbpedia.org/resource/Marshall_Islands,0.999,8805.090
-the Republic of Palau,http://dbpedia.org/resource/Palau,0.999,8962.398
-the Soviet Union,http://dbpedia.org/resource/Soviet_Union,1.000,63075.650
-the U.S. Virgin Islands,http://dbpedia.org/resource/United_States_Virgin_Islands,0.999,17990.059
-The United States of America,http://dbpedia.org/resource/United_States,1.000,317214.160
-the Virgin Islands,http://dbpedia.org/resource/United_States_Virgin_Islands,0.999,14907.223
-Treaty,http://dbpedia.org/resource/Treaty_8,0.998,5566.440
-Turkey,http://dbpedia.org/resource/Turkey,1.000,90399.670
-Ukraine,http://dbpedia.org/resource/Ukraine,1.000,67613.580
-USA,http://dbpedia.org/resource/United_States,1.000,37461.266
-Vietnam,http://dbpedia.org/resource/Vietnam,1.000,39621.610
-Warsaw,http://dbpedia.org/resource/Warsaw,1.000,42027.438
-related to,http://dbpedia.org/resource/Xenophobia_and_racism_related_to_the_COVID-19_pandemic,0.997,3948.915
-study,http://dbpedia.org/resource/Institute_for_Advanced_Study,0.998,5329.349
-support,http://dbpedia.org/resource/Forward_(association_football),0.999,11173.418
-a Coalition of Free Association,http://dbpedia.org/resource/Unification_Church,0.996,2717.932
-Alliance,http://dbpedia.org/resource/United_People's_Freedom_Alliance,0.998,6656.547
-the Fridtjof Nansen Institute & Senior,http://dbpedia.org/resource/United_States_Army,0.981,517.267
-Donald Trump,http://dbpedia.org/resource/Donald_Trump,1.000,53307.754
-Javier Milei,http://dbpedia.org/resource/Javier_Milei,0.995,2189.828
-Mette Frederiksen,http://dbpedia.org/resource/Mette_Frederiksen,0.998,4262.631
-Putin,http://dbpedia.org/resource/Vladimir_Putin,0.999,14993.141
-Britain,http://dbpedia.org/resource/United_Kingdom,1.000,63365.720
-Cuba,http://dbpedia.org/resource/Cuba,1.000,41384.970
-Finland,http://dbpedia.org/resource/Finland,1.000,65298.023
-Iceland,http://dbpedia.org/resource/Iceland,1.000,33498.453
-Louisiana,http://dbpedia.org/resource/Louisiana,1.000,48703.850
-Northern Norway,http://dbpedia.org/resource/Northern_Norway,0.999,12344.689
-Norway,http://dbpedia.org/resource/Norway,1.000,86623.590
-Russia,http://dbpedia.org/resource/Russia,1.000,119593.960
-Svalbard,http://dbpedia.org/resource/Svalbard,0.999,12065.300
-the United Kingdom,http://dbpedia.org/resource/United_Kingdom,1.000,131503.160
-Venezuela,http://dbpedia.org/resource/Venezuela,1.000,53729.130
-Alaska,http://dbpedia.org/resource/Alaska,1.000,29441.764
-the Kingdom of Denmark,http://dbpedia.org/resource/Greenland,0.999,13659.245
-U.S.,http://dbpedia.org/resource/United_States,1.000,46298.780
-Trump,http://dbpedia.org/resource/Donald_Trump,1.000,30141.465
-Washington,"http://dbpedia.org/resource/Washington,_D.C.",1.000,42630.434
-The United States,http://dbpedia.org/resource/United_States,1.000,184823.200
-the United States,http://dbpedia.org/resource/United_States,1.000,184823.200
-Denmark,http://dbpedia.org/resource/Denmark,1.000,69455.230
-NATO,http://dbpedia.org/resource/NATO,0.999,8365.264
-Greenland,http://dbpedia.org/resource/Greenland,1.000,25438.479
+Entity Label,Wikidata URI,Confidence
+Danmark,http://www.wikidata.org/entity/Q1269766,0.40
+Greenlandic,http://www.wikidata.org/entity/Q25355,1.00
+Naalakkersuisut,http://www.wikidata.org/entity/Q10858355,1.00
+Sermitsiaq,http://www.wikidata.org/entity/Q937418,1.00
+Thule,http://www.wikidata.org/entity/Q12006250,1.00
+Aalborg,http://www.wikidata.org/entity/Q25410,1.00
+Air Greenland,http://www.wikidata.org/entity/Q407292,1.00
+Aksel Svane,http://www.wikidata.org/entity/Q40021447,1.00
+Bloomberg,http://www.wikidata.org/entity/Q13977,0.50
+Bundestag,http://www.wikidata.org/entity/Q154797,0.40
+Christian Wulff,http://www.wikidata.org/entity/Q2540,1.00
+Covid,http://www.wikidata.org/entity/Q84263196,0.50
+COVID-19,http://www.wikidata.org/entity/Q84263196,1.00
+DCRA,http://www.wikidata.org/entity/Q18035284,0.40
+Eske Brun,http://www.wikidata.org/entity/Q1140963,1.00
+Forbes,http://www.wikidata.org/entity/Q16275858,1.00
+Gates,http://www.wikidata.org/entity/Q16870134,1.00
+Goražde,http://www.wikidata.org/entity/Q504058,1.00
+Greenlandic Inuit,http://www.wikidata.org/entity/Q25355,0.40
+Grønnow,,0.00
+Inatsisartut,http://www.wikidata.org/entity/Q1257966,1.00
+ISBN,http://www.wikidata.org/entity/Q33057,0.40
+Ivigtut,http://www.wikidata.org/entity/Q950978,0.40
+Jan,http://www.wikidata.org/entity/Q12173670,1.00
+Kauffmann,http://www.wikidata.org/entity/Q26973097,1.00
+Kremlin,http://www.wikidata.org/entity/Q13371,0.40
+Naalakkersuisoq,http://www.wikidata.org/entity/Q110126947,0.40
+Napoleon,http://www.wikidata.org/entity/Q517,1.00
+Palantir,http://www.wikidata.org/entity/Q2047336,0.50
+Parello-Plesner,,0.00
+Passage,http://www.wikidata.org/entity/Q2055753,1.00
+PDF,http://www.wikidata.org/entity/Q42332,1.00
+Polska,http://www.wikidata.org/entity/Q11184841,1.00
+Secretariat,http://www.wikidata.org/entity/Q1151926,1.00
+Skrælings,http://www.wikidata.org/entity/Q134617845,0.40
+Statistics Greenland,http://www.wikidata.org/entity/Q5560904,1.00
+Struwe,http://www.wikidata.org/entity/Q27208081,1.00
+Thule Air Base,http://www.wikidata.org/entity/Q131520504,0.40
+Thule Site J,http://www.wikidata.org/entity/Q12318725,1.00
+Treaty,http://www.wikidata.org/entity/Q131569,1.00
+United Nations,http://www.wikidata.org/entity/Q1065,1.00
+United States,http://www.wikidata.org/entity/Q30,1.00
+US Arctic,http://www.wikidata.org/entity/Q7889426,0.40
+Venstre,http://www.wikidata.org/entity/Q500190,0.40
+Verdonk,http://www.wikidata.org/entity/Q21491902,1.00
+Willerslev,http://www.wikidata.org/entity/Q49649736,1.00
+YouTube,http://www.wikidata.org/entity/Q866,1.00
+Yukon,http://www.wikidata.org/entity/Q2009,1.00
+Avannaata,http://www.wikidata.org/entity/Q44593409,1.00
+Burchard,http://www.wikidata.org/entity/Q18579290,1.00
+Clemmensen,http://www.wikidata.org/entity/Q1100396,1.00
+Dundas,http://www.wikidata.org/entity/Q16869712,1.00
+Edwards,http://www.wikidata.org/entity/Q2691159,1.00
+Emmanuel Macron,http://www.wikidata.org/entity/Q3052772,1.00
+Green Left,http://www.wikidata.org/entity/Q615603,1.00
+Henrik,http://www.wikidata.org/entity/Q594279,1.00
+Jordan,http://www.wikidata.org/entity/Q14021944,1.00
+Katalog,http://www.wikidata.org/entity/Q23833686,0.40
+Keisling,http://www.wikidata.org/entity/Q37062706,1.00
+Lomonosov Ridge,http://www.wikidata.org/entity/Q1166029,1.00
+Mads,http://www.wikidata.org/entity/Q16278672,1.00
+Normandy,http://www.wikidata.org/entity/Q2219635,1.00
+Nowicki,http://www.wikidata.org/entity/Q21497044,1.00
+Polen,http://www.wikidata.org/entity/Q12505991,1.00
+Politiken,http://www.wikidata.org/entity/Q12332024,0.50
+Qaanaaq,http://www.wikidata.org/entity/Q223314,1.00
+Rottem,http://www.wikidata.org/entity/Q55241046,1.00
+Saint Lucia,http://www.wikidata.org/entity/Q760,1.00
+Schoof,http://www.wikidata.org/entity/Q37235156,1.00
+Stoltenberg,http://www.wikidata.org/entity/Q21449571,1.00
+Tuvalu,http://www.wikidata.org/entity/Q672,1.00
+V.M.,http://www.wikidata.org/entity/Q88217885,0.40
+Vladimir Putin,http://www.wikidata.org/entity/Q7747,1.00
+Volodymyr Zelenskyy,http://www.wikidata.org/entity/Q3874799,1.00
+Waszczykowski łagodnie,,0.00
+Zensursula,http://www.wikidata.org/entity/Q60772,0.40
+Appelt,http://www.wikidata.org/entity/Q2634040,0.50
+Bundeswehr,http://www.wikidata.org/entity/Q56010,1.00
+Herszenhorn,http://www.wikidata.org/entity/Q120542673,1.00
+Kalaallisut,http://www.wikidata.org/entity/Q25355,0.40
+Kalaallit,http://www.wikidata.org/entity/Q223,0.40
+Rasmus,http://www.wikidata.org/entity/Q1785744,1.00
+Greenlanders,http://www.wikidata.org/entity/Q888553,0.40
+Nikolaj,http://www.wikidata.org/entity/Q19838224,1.00
+Kongeriget Danmark,http://www.wikidata.org/entity/Q756617,0.40
+Слово,http://www.wikidata.org/entity/Q8171,0.40
+−5.1,,0.00
+Ø69,http://www.wikidata.org/entity/Q7171665,0.40
+A400M,http://www.wikidata.org/entity/Q6496,0.40
+aa.50.1.72,,0.00
+AAA,http://www.wikidata.org/entity/Q280732,1.00
+AAC,http://www.wikidata.org/entity/Q1017,0.50
+Aalborg Air,http://www.wikidata.org/entity/Q478620,0.50
+Aalborg Portland,http://www.wikidata.org/entity/Q12300279,1.00
+Aalborg University,http://www.wikidata.org/entity/Q601956,1.00
+ABC-CLIO,http://www.wikidata.org/entity/Q667886,1.00
+ABC News,http://www.wikidata.org/entity/Q287171,1.00
+ABC Science,http://www.wikidata.org/entity/Q135746194,1.00
+Abe-Ouchi,,0.00
+Abrupt Climate Change,http://www.wikidata.org/entity/Q2956049,1.00
+ACAP,http://www.wikidata.org/entity/Q81398,0.50
+Ace Guard,,0.00
+ACO,http://www.wikidata.org/entity/Q56292034,1.00
+Active Air Force Bases,,0.00
+Administration and Social Sciences,,0.00
+Advancing U.S. Interests,,0.00
+ae af ag,,0.00
+Aerospace Defense Command,http://www.wikidata.org/entity/Q2825671,1.00
+African Studies,http://www.wikidata.org/entity/Q4689921,1.00
+Aftale om ny,,0.00
+Aftenposten,http://www.wikidata.org/entity/Q388841,1.00
+Agendas of Ministerial Meetings,,0.00
+AIA,http://www.wikidata.org/entity/Q25228,0.40
+Air Defense Command,http://www.wikidata.org/entity/Q16162840,1.00
+Air Defense Wing,,0.00
+Air Force Bases Volume II,,0.00
+Air Force Combat Units of,http://www.wikidata.org/entity/Q15058296,0.50
+Air Force Systems Command,http://www.wikidata.org/entity/Q4697969,1.00
+Air Force Weather Agency,http://www.wikidata.org/entity/Q4697973,0.40
+Air Force Weather Observer,,0.00
+Air & Space Forces Magazine,http://www.wikidata.org/entity/Q114784734,1.00
+Air & Space Power Journal,http://www.wikidata.org/entity/Q4698286,0.40
+Airbus,http://www.wikidata.org/entity/Q67,0.50
+AK Legislature,http://www.wikidata.org/entity/Q719894,0.40
+akkr,http://www.wikidata.org/entity/Q2250527,0.50
+Al Jazeera,http://www.wikidata.org/entity/Q13477,1.00
+al-Qaeda,http://www.wikidata.org/entity/Q34490,1.00
+Alaska Energy,,0.00
+Alaska Science Center,http://www.wikidata.org/entity/Q124251959,0.40
+Algemeen,http://www.wikidata.org/entity/Q290764,0.50
+Algemeen Dagblad,http://www.wikidata.org/entity/Q290764,1.00
+Alley,http://www.wikidata.org/entity/Q16479385,1.00
+Allied,http://www.wikidata.org/entity/Q23681360,1.00
+Allied Air Power,http://www.wikidata.org/entity/Q112850941,0.50
+Allied Command,http://www.wikidata.org/entity/Q55858714,0.50
+Allied Command Atlantic,,0.00
+Allied Command Transformation,http://www.wikidata.org/entity/Q2001035,1.00
+Altinget,http://www.wikidata.org/entity/Q12301201,1.00
+AMAP,http://www.wikidata.org/entity/Q23196,0.40
+Amazon,http://www.wikidata.org/entity/Q3884,1.00
+America First Committee,http://www.wikidata.org/entity/Q463128,1.00
+American Alpine Club,http://www.wikidata.org/entity/Q2980047,1.00
+American Coast Guard,,0.00
+American-Danish Business Council,,0.00
+American Journal of Human Genetics,http://www.wikidata.org/entity/Q4744249,1.00
+Americansecurityproject.org,,0.00
+Amnesty International,http://www.wikidata.org/entity/Q42970,1.00
+Amory,http://www.wikidata.org/entity/Q16148828,1.00
+AMSA,http://www.wikidata.org/entity/Q3601028,1.00
+Anadolu Agency,http://www.wikidata.org/entity/Q477436,1.00
+Anchor Guard,,0.00
+Andor,http://www.wikidata.org/entity/Q492347,1.00
+Andrews Kurth LLP,http://www.wikidata.org/entity/Q4759089,0.40
+Andrewskurth.com,,0.00
+Anordning,http://www.wikidata.org/entity/Q1183543,0.40
+ANP,http://www.wikidata.org/entity/Q78185357,0.40
+ANZUS,http://www.wikidata.org/entity/Q295875,1.00
+AP News,http://www.wikidata.org/entity/Q4653479,0.50
+APG,http://www.wikidata.org/entity/Q5656888,0.40
+Arbor House,http://www.wikidata.org/entity/Q4034270,1.00
+Archaeological Institute of America,http://www.wikidata.org/entity/Q632218,1.00
+Archived,http://www.wikidata.org/entity/Q56557591,0.40
+Archosauriformes,http://www.wikidata.org/entity/Q282487,1.00
+Arctic[68,,0.00
+Arctic Council Cooperation,,0.00
+Arctic Council Governance,,0.00
+Arctic Environmental Protection,http://www.wikidata.org/entity/Q4787508,0.50
+Arctic Front,http://www.wikidata.org/entity/Q393988,1.00
+Arctic Research Commission,,0.00
+Arctic Research Consortium,http://www.wikidata.org/entity/Q30283952,0.50
+Arctic Research Policy Committee,,0.00
+Arctic Review,http://www.wikidata.org/entity/Q11958586,0.50
+ARCTIC VISION & STRATEGY,,0.00
+ArcticSecretary of Commerce,,0.00
+ArcticToday,,0.00
+ARCUS,http://www.wikidata.org/entity/Q25368587,1.00
+Argus,http://www.wikidata.org/entity/Q19814668,1.00
+Arktisk Institut,http://www.wikidata.org/entity/Q30272549,0.40
+Arms Control Association,http://www.wikidata.org/entity/Q4793846,1.00
+Army,http://www.wikidata.org/entity/Q8473,0.40
+Army Air Forces,http://www.wikidata.org/entity/Q741723,0.40
+Army Times,http://www.wikidata.org/entity/Q689778,1.00
+Arneborg,http://www.wikidata.org/entity/Q83639042,1.00
+ASN Aircraft,,0.00
+Associated Press,http://www.wikidata.org/entity/Q40469,1.00
+Association of Religion Data Archives,http://www.wikidata.org/entity/Q4810029,1.00
+Association of World Reindeer Herders,,0.00
+ATA Education,,0.00
+Atlantic Council,http://www.wikidata.org/entity/Q756373,1.00
+atlas,http://www.wikidata.org/entity/Q299002,0.50
+Attache,http://www.wikidata.org/entity/Q544178,0.40
+AUKUS,http://www.wikidata.org/entity/Q108556886,1.00
+AUSCANNZUKUS,http://www.wikidata.org/entity/Q4033111,1.00
+Avalon Project - Defense of Greenland,,0.00
+Aviation Safety Network,http://www.wikidata.org/entity/Q790827,1.00
+Baader-Meinhof,http://www.wikidata.org/entity/Q102734,0.40
+BAE Systems,http://www.wikidata.org/entity/Q739416,1.00
+Bahamas Local,,0.00
+Baldan,http://www.wikidata.org/entity/Q65097560,1.00
+Balkan Investigative Reporting Network,,0.00
+Barbuda Bilateral Relations,,0.00
+Bayer,http://www.wikidata.org/entity/Q152051,1.00
+BBC,http://www.wikidata.org/entity/Q9531,0.40
+Beadling,http://www.wikidata.org/entity/Q37017614,1.00
+Beaufort Seas,,0.00
+Belém,http://www.wikidata.org/entity/Q18500330,1.00
+Ben-Gurion University,http://www.wikidata.org/entity/Q737332,0.50
+Benim,http://www.wikidata.org/entity/Q1770191,0.50
+Berhow,http://www.wikidata.org/entity/Q37213065,1.00
+Berlin Federal Government of Germany,,0.00
+Berliner Zeitung,http://www.wikidata.org/entity/Q10185,1.00
+Berlingske.dk,http://www.wikidata.org/entity/Q86609048,1.00
+Bethlehem & Weller,,0.00
+Betrekkingen,http://www.wikidata.org/entity/Q15949077,0.40
+Bierman,http://www.wikidata.org/entity/Q36997954,1.00
+BIF,http://www.wikidata.org/entity/Q238007,0.40
+Biografie,http://www.wikidata.org/entity/Q19389637,0.40
+BioScience,http://www.wikidata.org/entity/Q864928,0.40
+BKA,http://www.wikidata.org/entity/Q471187,0.40
+BLM,http://www.wikidata.org/entity/Q19600530,0.40
+BLM Alaska Home Page,,0.00
+Bloomberg L.P.,http://www.wikidata.org/entity/Q13977,1.00
+Bloomsbury Academic,http://www.wikidata.org/entity/Q138218611,1.00
+Board of Trustees Total E-Quality,,0.00
+Boers,http://www.wikidata.org/entity/Q37492124,1.00
+Brattahlíð,http://www.wikidata.org/entity/Q798672,1.00
+Breakwater Books,http://www.wikidata.org/entity/Q50719356,0.40
+Brigham Young University,http://www.wikidata.org/entity/Q332498,1.00
+British Vogue,http://www.wikidata.org/entity/Q6351976,1.00
+Broadcasting and Information Department,,0.00
+Brookings Institution,http://www.wikidata.org/entity/Q929154,1.00
+Brussels Signal,,0.00
+Brynhildur,http://www.wikidata.org/entity/Q33093601,1.00
+Bt.dk,http://www.wikidata.org/entity/Q327821,0.40
+Buksefjord,http://www.wikidata.org/entity/Q24840570,1.00
+Bureau of Oceans,http://www.wikidata.org/entity/Q4998406,0.50
+Busch,http://www.wikidata.org/entity/Q1017270,1.00
+Business Standard,http://www.wikidata.org/entity/Q2307816,1.00
+Businessweek,http://www.wikidata.org/entity/Q833195,0.40
+Cabinet,http://www.wikidata.org/entity/Q640506,1.00
+Cambridge International Documents Series,,0.00
+Cambridge University Press,http://www.wikidata.org/entity/Q912887,1.00
+Camp TUTO (Ice Cap Approach Ramp,,0.00
+Campbell,http://www.wikidata.org/entity/Q2665383,1.00
+Canada.com,http://www.wikidata.org/entity/Q7234369,0.40
+Canadell,http://www.wikidata.org/entity/Q57006184,1.00
+Canadian Air Force,http://www.wikidata.org/entity/Q25456,0.40
+Canadian Broadcasting Corporation,http://www.wikidata.org/entity/Q461761,1.00
+Canadian Encyclopedia,http://www.wikidata.org/entity/Q130334,1.00
+Canadian Government Publishing,,0.00
+Canadian Press,http://www.wikidata.org/entity/Q2410130,0.40
+Cantino,http://www.wikidata.org/entity/Q42733597,0.50
+Canwest News Services,,0.00
+Cape Morris,http://www.wikidata.org/entity/Q21485345,1.00
+Capstone Press,,0.00
+Carnegie Endowment,http://www.wikidata.org/entity/Q1153595,0.50
+Cathcourt,,0.00
+CBC,http://www.wikidata.org/entity/Q461761,0.40
+CBC News,http://www.wikidata.org/entity/Q2931014,1.00
+CBS News,http://www.wikidata.org/entity/Q18643692,0.50
+Cbs News,http://www.wikidata.org/entity/Q18643692,0.50
+CDU,http://www.wikidata.org/entity/Q49762,0.40
+CDU-Präsidium,http://www.wikidata.org/entity/Q1023132,0.40
+Central Intelligence Agency,http://www.wikidata.org/entity/Q37230,1.00
+CEQ,http://www.wikidata.org/entity/Q1330995,0.40
+Československá,http://www.wikidata.org/entity/Q853348,0.40
+CFE,http://www.wikidata.org/entity/Q1637701,0.40
+Chambers,http://www.wikidata.org/entity/Q13573116,1.00
+Channel NewsAsia,http://www.wikidata.org/entity/Q40238,0.40
+Charles A. Air Force,,0.00
+Charleston Mercury,http://www.wikidata.org/entity/Q5084157,1.00
+Chatham House,http://www.wikidata.org/entity/Q263016,1.00
+Chicago Council on Global Affairs,http://www.wikidata.org/entity/Q5095561,1.00
+Chicago Review Press,http://www.wikidata.org/entity/Q16987022,1.00
+Chiefs of Defence,,0.00
+China Daily,http://www.wikidata.org/entity/Q851422,1.00
+Chosun,http://www.wikidata.org/entity/Q28179,0.40
+Christian Democratic Union,http://www.wikidata.org/entity/Q49762,1.00
+Christian Union,http://www.wikidata.org/entity/Q239539,1.00
+Christlich Demokratische Union,http://www.wikidata.org/entity/Q49762,0.40
+Church,http://www.wikidata.org/entity/Q16970,0.50
+CIA World Factbook,http://www.wikidata.org/entity/Q11191,0.40
+Cicero,http://www.wikidata.org/entity/Q37563125,1.00
+"Citizens, Women and Youth",,0.00
+Clean Industry Deal,,0.00
+Climate,http://www.wikidata.org/entity/Q7937,1.00
+Clingendael Institute,http://www.wikidata.org/entity/Q2357617,0.40
+CNBC,http://www.wikidata.org/entity/Q1023912,1.00
+CNN,http://www.wikidata.org/entity/Q48340,1.00
+cnn,http://www.wikidata.org/entity/Q48340,1.00

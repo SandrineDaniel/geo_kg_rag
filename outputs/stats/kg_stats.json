@@ -1,97 +1,97 @@
 {
-  "total_triples": 86682,
-  "unique_subjects": 372,
-  "unique_predicates": 238,
-  "unique_uri_objects": 59725,
+  "total_triples": 62082,
+  "unique_subjects": 4315,
+  "unique_predicates": 2020,
+  "unique_uri_objects": 8069,
   "entity_types": {
-    "Person": 53,
-    "Organization": 62,
-    "Place": 71
+    "Person": 2077,
+    "Organization": 1369,
+    "Place": 612
   },
-  "owl_sameAs_links": 199,
+  "owl_sameAs_links": 338,
   "owl_equivalentProperty_links": 0,
   "top_10_predicates": [
     {
-      "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-      "count": 75898
+      "predicate": "http://www.wikidata.org/prop/direct/P530",
+      "count": 2352
     },
     {
-      "predicate": "http://dbpedia.org/ontology/description",
-      "count": 5842
+      "predicate": "http://www.wikidata.org/prop/direct/P463",
+      "count": 1340
     },
     {
-      "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
-      "count": 1558
+      "predicate": "http://www.wikidata.org/prop/direct/P31",
+      "count": 952
     },
     {
-      "predicate": "http://dbpedia.org/ontology/thumbnail",
-      "count": 135
+      "predicate": "http://example.org/kg/related_to",
+      "count": 860
     },
     {
-      "predicate": "http://dbpedia.org/ontology/termPeriod",
-      "count": 115
+      "predicate": "http://www.wikidata.org/prop/direct/P2936",
+      "count": 854
     },
     {
-      "predicate": "http://dbpedia.org/ontology/battle",
-      "count": 95
+      "predicate": "http://www.wikidata.org/prop/direct/P150",
+      "count": 836
     },
     {
-      "predicate": "http://dbpedia.org/ontology/event",
-      "count": 82
+      "predicate": "http://www.wikidata.org/prop/direct/P1830",
+      "count": 684
     },
     {
-      "predicate": "http://dbpedia.org/ontology/language",
-      "count": 80
+      "predicate": "http://www.wikidata.org/prop/direct/P1343",
+      "count": 640
     },
     {
-      "predicate": "http://dbpedia.org/ontology/subdivision",
-      "count": 75
+      "predicate": "http://www.wikidata.org/prop/direct/P166",
+      "count": 584
     },
     {
-      "predicate": "http://dbpedia.org/ontology/ethnicGroup",
-      "count": 53
+      "predicate": "http://www.wikidata.org/prop/direct/P527",
+      "count": 508
     }
   ],
   "top_10_entities_by_degree": [
     {
-      "entity": "http://dbpedia.org/resource/Russia",
-      "outgoing_triples": 1000
+      "entity": "http://example.org/kg/org/united_states",
+      "outgoing_triples": 1303
     },
     {
-      "entity": "http://dbpedia.org/resource/List_of_minor_planet_discoverers",
-      "outgoing_triples": 1000
+      "entity": "http://www.wikidata.org/entity/Q30",
+      "outgoing_triples": 1303
     },
     {
-      "entity": "http://dbpedia.org/resource/London",
-      "outgoing_triples": 1000
+      "entity": "http://example.org/kg/place/russia",
+      "outgoing_triples": 991
     },
     {
-      "entity": "http://dbpedia.org/resource/China",
-      "outgoing_triples": 1000
+      "entity": "http://www.wikidata.org/entity/Q159",
+      "outgoing_triples": 987
     },
     {
-      "entity": "http://dbpedia.org/resource/United_States",
-      "outgoing_triples": 1000
+      "entity": "http://example.org/kg/place/germany",
+      "outgoing_triples": 853
     },
     {
-      "entity": "http://dbpedia.org/resource/United_Kingdom",
-      "outgoing_triples": 1000
+      "entity": "http://www.wikidata.org/entity/Q183",
+      "outgoing_triples": 849
     },
     {
-      "entity": "http://dbpedia.org/resource/Sweden",
-      "outgoing_triples": 1000
+      "entity": "http://example.org/kg/place/france",
+      "outgoing_triples": 779
     },
     {
-      "entity": "http://dbpedia.org/resource/Netherlands",
-      "outgoing_triples": 1000
+      "entity": "http://www.wikidata.org/entity/Q142",
+      "outgoing_triples": 778
     },
     {
-      "entity": "http://dbpedia.org/resource/Greece",
-      "outgoing_triples": 1000
+      "entity": "http://example.org/kg/person/donald_trump",
+      "outgoing_triples": 685
     },
     {
-      "entity": "http://dbpedia.org/resource/Norway",
-      "outgoing_triples": 1000
+      "entity": "http://www.wikidata.org/entity/Q22686",
+      "outgoing_triples": 684
     }
   ]
 }
