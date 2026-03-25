@@ -217,7 +217,7 @@ In the sidebar:
 - Choose a model from the dropdown (`llama3.2:1b` or `gemma:2b`)
 - Type your question in the chat box
 
-![RAG Chatbot UI](reports/screenshot_rag.png)
+![RAG Chatbot UI](reports/gemma_relation_between_greenland_denmark.png)
 
 ### Option B — CLI Interactive Mode
 ```bash
